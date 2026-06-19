@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .font { font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans CJK KR", Arial, sans-serif; }
+      .serif { font-family: "Times New Roman", Georgia, serif; }
+      .navy { fill: #082b67; }
+      .blue { fill: #1168a8; }
+      .cyan { fill: #08aeea; }
+      .red { fill: #cc1111; }
+      .dark { fill: #222222; }
+      .muted { fill: #666666; }
+      .line-blue { stroke: #123b63; }
+      .line-gray { stroke: #b7b7b7; }
+      .small { font-size: 26px; }
+      .body { font-size: 29px; }
+      .body-bold { font-size: 31px; font-weight: 700; }
+      .label { font-size: 24px; font-weight: 700; }
+    </style>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.20"/>
+    </filter>
+    <linearGradient id="photoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f7fb"/>
+      <stop offset="100%" stop-color="#d8e4ef"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="#ffffff"/>
+
+  <!-- Top English slogan -->
+  <text x="58" y="72" class="serif dark" font-size="50" font-weight="700" font-style="italic">
+    <tspan>With </tspan><tspan class="cyan" font-size="72">S</tspan><tspan>elf-direction, </tspan>
+    <tspan class="blue" font-size="72">I</tspan><tspan>nclusiveness, and </tspan>
+    <tspan class="navy" font-size="72">P</tspan><tspan>ractical Action</tspan>
+  </text>
+
+  <!-- Central Korean statement -->
+  <g class="font" filter="url(#softShadow)">
+    <text x="960" y="138" text-anchor="middle" class="dark" font-size="35" font-weight="700">
+      <tspan class="red">경천애인</tspan><tspan>의 창학이념을 기반으로 </tspan>
+      <tspan class="blue">복지와 ICT융합</tspan><tspan>을 실천하는</tspan>
+    </text>
+    <text x="960" y="183" text-anchor="middle" class="dark" font-size="35" font-weight="700">
+      <tspan class="red">스마트 건설 전문인재</tspan><tspan> 양성</tspan>
+    </text>
+  </g>
+
+  <!-- Top connector arrows -->
+  <path d="M356 116 H178 V188" fill="none" class="line-blue" stroke-width="3"/>
+  <polygon points="178,197 170,181 186,181" fill="#123b63"/>
+  <path d="M1558 116 H1740 V188" fill="none" class="line-blue" stroke-width="3"/>
+  <polygon points="1740,197 1732,181 1748,181" fill="#123b63"/>
+
+  <!-- Left bracket box -->
+  <g>
+    <path d="M42 262 V204 H337" fill="none" class="line-gray" stroke-width="6"/>
+    <path d="M337 204 V262" fill="none" class="line-gray" stroke-width="4" stroke-dasharray="4 4"/>
+    <path d="M42 494 V554 H337 V494" fill="none" class="line-gray" stroke-width="6"/>
+    <path d="M42 262 V494" fill="none" class="line-gray" stroke-width="3" stroke-dasharray="4 4"/>
+    <text x="190" y="338" text-anchor="middle" class="font navy" font-size="31" font-weight="700">자주적·포용적·실천적</text>
+    <text x="190" y="396" text-anchor="middle" class="font navy" font-size="31" font-weight="700">스마트 건설</text>
+    <text x="190" y="454" text-anchor="middle" class="font navy" font-size="31" font-weight="700">전문인재 양성</text>
+  </g>
+
+  <!-- Right bracket box -->
+  <g>
+    <path d="M1606 262 V204 H1882" fill="none" class="line-gray" stroke-width="6"/>
+    <path d="M1882 204 V262" fill="none" class="line-gray" stroke-width="4" stroke-dasharray="4 4"/>
+    <path d="M1606 494 V554 H1882 V494" fill="none" class="line-gray" stroke-width="6"/>
+    <path d="M1606 262 V494" fill="none" class="line-gray" stroke-width="3" stroke-dasharray="4 4"/>
+    <text x="1744" y="347" text-anchor="middle" class="font navy" font-size="29" font-weight="700">지역사회·복지사회에</text>
+    <text x="1744" y="405" text-anchor="middle" class="font navy" font-size="29" font-weight="700">기여하는 안전하고</text>
+    <text x="1744" y="463" text-anchor="middle" class="font navy" font-size="29" font-weight="700">지속가능한 건축환경</text>
+  </g>
+
+  <!-- Central relationship diagram -->
+  <g>
+    <path d="M945 228 A178 178 0 0 1 945 584" fill="none" stroke="#126baa" stroke-width="70"/>
+    <path d="M925 584 A178 178 0 0 1 925 228" fill="none" stroke="#a9a9a9" stroke-width="70"/>
+    <circle cx="935" cy="406" r="150" fill="#ffffff" stroke="#eef2f5" stroke-width="2"/>
+    <circle cx="935" cy="406" r="123" fill="#f8fbfd" stroke="#e1e8ef" stroke-width="1"/>
+
+    <text x="935" y="374" text-anchor="middle" class="font dark" font-size="50" font-weight="800">경천애인</text>
+    <text x="935" y="424" text-anchor="middle" class="font blue" font-size="26" font-weight="700">敬天愛人</text>
+    <text x="798" y="402" text-anchor="middle" class="font" font-size="29" font-weight="800" fill="#ffffff" transform="rotate(-90 798 402)">인재상</text>
+    <text x="1071" y="402" text-anchor="middle" class="font" font-size="29" font-weight="800" fill="#ffffff" transform="rotate(90 1071 402)">핵심역량</text>
+
+    <g stroke="#8ea7bb" stroke-width="5" fill="none" opacity="0.55">
+      <line x1="858" y1="312" x2="1012" y2="500"/>
+      <line x1="1012" y1="312" x2="858" y2="500"/>
+      <line x1="840" y1="406" x2="1030" y2="406"/>
+    </g>
+    <circle cx="940" cy="464" r="24" fill="#466372" opacity="0.88"/>
+    <path d="M902 520 V497 C902 477 918 462 940 462 C962 462 978 477 978 497 V520 Z" fill="#466372" opacity="0.88"/>
+  </g>
+
+  <!-- Left talent list -->
+  <g class="font">
+    <text x="545" y="258" text-anchor="end" class="dark body-bold">자주적 인재</text>
+    <text x="545" y="292" text-anchor="end" class="muted" font-size="23">AI·BIM 기반</text>
+    <text x="545" y="321" text-anchor="end" class="muted" font-size="23">자기주도 학습</text>
+    <circle cx="650" cy="260" r="54" fill="#ffffff" stroke="#a9a9a9" stroke-width="5"/>
+    <text x="650" y="277" text-anchor="middle" class="red" font-size="48" font-weight="800">自</text>
+
+    <text x="545" y="402" text-anchor="end" class="dark body-bold">포용적 인재</text>
+    <text x="545" y="436" text-anchor="end" class="muted" font-size="23">사용자·지역사회</text>
+    <text x="545" y="465" text-anchor="end" class="muted" font-size="23">중심 건축환경</text>
+    <circle cx="650" cy="404" r="54" fill="#ffffff" stroke="#a9a9a9" stroke-width="5"/>
+    <text x="650" y="421" text-anchor="middle" class="red" font-size="48" font-weight="800">包</text>
+
+    <text x="545" y="546" text-anchor="end" class="dark body-bold">실천적 인재</text>
+    <text x="545" y="580" text-anchor="end" class="muted" font-size="23">현장문제 해결형</text>
+    <text x="545" y="609" text-anchor="end" class="muted" font-size="23">프로젝트 수행</text>
+    <circle cx="650" cy="548" r="54" fill="#ffffff" stroke="#a9a9a9" stroke-width="5"/>
+    <text x="650" y="565" text-anchor="middle" class="red" font-size="48" font-weight="800">實</text>
+  </g>
+
+  <!-- Right competency list -->
+  <g class="font">
+    <circle cx="1142" cy="222" r="41" fill="#ffffff" stroke="#0d4f82" stroke-width="4"/>
+    <text x="1142" y="233" text-anchor="middle" class="dark" font-size="24" font-weight="800">AI</text>
+    <text x="1195" y="217" class="blue body-bold">AI·BIM·Digital Twin 융합</text>
+    <text x="1195" y="252" class="muted small">[융합+]</text>
+
+    <circle cx="1210" cy="318" r="41" fill="#ffffff" stroke="#0d4f82" stroke-width="4"/>
+    <text x="1210" y="333" text-anchor="middle" class="dark" font-size="42" font-weight="700">人</text>
+    <text x="1263" y="313" class="blue body-bold">사용자·지역 중심 사고</text>
+    <text x="1263" y="348" class="muted small">[포용+]</text>
+
+    <circle cx="1235" cy="414" r="41" fill="#ffffff" stroke="#0d4f82" stroke-width="4"/>
+    <text x="1235" y="429" text-anchor="middle" class="dark" font-size="42" font-weight="700">協</text>
+    <text x="1288" y="409" class="blue body-bold">소통·협업 역량</text>
+    <text x="1288" y="444" class="muted small">[협업+]</text>
+
+    <circle cx="1210" cy="510" r="41" fill="#ffffff" stroke="#0d4f82" stroke-width="4"/>
+    <text x="1210" y="525" text-anchor="middle" class="dark" font-size="42" font-weight="700">場</text>
+    <text x="1263" y="505" class="blue body-bold">현장문제 해결형 실천</text>
+    <text x="1263" y="540" class="muted small">[실천+]</text>
+
+    <circle cx="1142" cy="606" r="41" fill="#ffffff" stroke="#0d4f82" stroke-width="4"/>
+    <text x="1142" y="621" text-anchor="middle" class="dark" font-size="42" font-weight="700">福</text>
+    <text x="1195" y="601" class="blue body-bold">ICT융합 기반 지역기여</text>
+    <text x="1195" y="636" class="muted small">[기여+]</text>
+  </g>
+
+  <!-- Bottom collaboration area -->
+  <text x="70" y="725" class="font dark" font-size="50">Collaborating with faculty members at Kangnam University.</text>
+  <rect x="0" y="753" width="1920" height="298" rx="12" fill="#fbfdff" stroke="#80b3d4" stroke-width="4"/>
+
+  <g class="font">
+    <g transform="translate(305 775)">
+      <rect x="0" y="0" width="210" height="210" fill="url(#photoGrad)" stroke="#e8eef5"/>
+      <circle cx="105" cy="82" r="42" fill="#91a9bb"/>
+      <path d="M43 188 C50 135 160 135 167 188 Z" fill="#6f8798"/>
+      <rect x="20" y="219" width="170" height="42" rx="18" fill="#f5f5f5" stroke="#d0d0d0" filter="url(#softShadow)"/>
+      <text x="105" y="247" text-anchor="middle" class="dark label">부동산학 교수진</text>
+    </g>
+    <g transform="translate(592 775)">
+      <rect x="0" y="0" width="210" height="210" fill="url(#photoGrad)" stroke="#e8eef5"/>
+      <circle cx="105" cy="82" r="42" fill="#91a9bb"/>
+      <path d="M43 188 C50 135 160 135 167 188 Z" fill="#6f8798"/>
+      <rect x="20" y="219" width="170" height="42" rx="18" fill="#f5f5f5" stroke="#d0d0d0" filter="url(#softShadow)"/>
+      <text x="105" y="247" text-anchor="middle" class="dark label">건축공학 교수진</text>
+    </g>
+    <g transform="translate(879 775)">
+      <rect x="0" y="0" width="210" height="210" fill="url(#photoGrad)" stroke="#e8eef5"/>
+      <circle cx="105" cy="82" r="42" fill="#91a9bb"/>
+      <path d="M43 188 C50 135 160 135 167 188 Z" fill="#6f8798"/>
+      <rect x="20" y="219" width="170" height="42" rx="18" fill="#f5f5f5" stroke="#d0d0d0" filter="url(#softShadow)"/>
+      <text x="105" y="247" text-anchor="middle" class="dark label">스마트도시 교수진</text>
+    </g>
+    <g transform="translate(1166 775)">
+      <rect x="0" y="0" width="210" height="210" fill="url(#photoGrad)" stroke="#e8eef5"/>
+      <circle cx="105" cy="82" r="42" fill="#91a9bb"/>
+      <path d="M43 188 C50 135 160 135 167 188 Z" fill="#6f8798"/>
+      <rect x="20" y="219" width="170" height="42" rx="18" fill="#f5f5f5" stroke="#d0d0d0" filter="url(#softShadow)"/>
+      <text x="105" y="247" text-anchor="middle" class="dark label">AI·SW 교수진</text>
+    </g>
+    <g transform="translate(1453 775)">
+      <rect x="0" y="0" width="210" height="210" fill="url(#photoGrad)" stroke="#e8eef5"/>
+      <circle cx="105" cy="82" r="42" fill="#91a9bb"/>
+      <path d="M43 188 C50 135 160 135 167 188 Z" fill="#6f8798"/>
+      <rect x="20" y="219" width="170" height="42" rx="18" fill="#f5f5f5" stroke="#d0d0d0" filter="url(#softShadow)"/>
+      <text x="105" y="247" text-anchor="middle" class="dark label">산학협력 교수진</text>
+    </g>
+  </g>
+</svg>
