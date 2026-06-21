@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld><p:spTree>
+    <p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr>
+    <p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+    <p:sp>
+    <p:nvSpPr><p:cNvPr id="2" name="section"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="228600"/><a:ext cx="1097280" cy="320040"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1200"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1200" b="1"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>추가 7</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="3" name="title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="594360"/><a:ext cx="11155680" cy="594360"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="3000"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="3000" b="1"><a:solidFill><a:srgbClr val="123C69"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>로보틱스·원격시공·TBM 자동화</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="4" name="core"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1234440"/><a:ext cx="10972800" cy="685800"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1600"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1600" b="1"><a:solidFill><a:srgbClr val="123C69"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>고위험·고난도 공종은 로보틱스, VR 원격조종, 머신러닝 기반 자동화로 작업자 위험을 줄이고 시공품질을 높여야 한다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="5" name="card1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="2057400"/><a:ext cx="3493008" cy="2880360"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1700"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1700" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>교량 고소작업</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 인력 중심 작업과 추락 위험</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 고령·미숙련 작업자 증가</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 3D 스캐닝 기반 로보틱 크레인 필요</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="6" name="card2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4297680" y="2057400"/><a:ext cx="3493008" cy="2880360"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1700"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1700" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>원격 건설로봇</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 원격조종의 현장감 부족</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 몰입형 VR, 다중 카메라, 햅틱·force feedback</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 고위험 작업의 원격·무인화</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="7" name="card3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8001000" y="2057400"/><a:ext cx="3493008" cy="2880360"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1700"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1700" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>TBM 자동화</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 굴진데이터 방대, 실시간 분석 어려움</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 운전자 숙련도 의존</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 머신러닝 기반 이상예측과 자동 운전제어</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="8" name="footer"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="5166360"/><a:ext cx="10972800" cy="685800"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1500"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1500" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Remote and Robotic Construction → Safer and More Reliable Smart Infrastructure</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="9" name="brand"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8412480" y="6263640"/><a:ext cx="3108960" cy="228600"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="91440" tIns="54864" rIns="91440" bIns="54864"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City Construction Management</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+  </p:spTree></p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>
