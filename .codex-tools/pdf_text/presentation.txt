@@ -1,0 +1,705 @@
+Public Presentation and Interview Evaluation
+for New Full-Time Faculty Recruitment
+
+
+
+
+                         강남대학교 전임교원 초빙 공개발표
+
+                         • 학부(학과): 부동산건설학부
+                         • 지원분야: 건축시공 및 관리
+
+
+
+
+                                                             Nahyun Kwon, Ph.D.
+                                               Center for AI Technology in Construction
+                                                     Hanyang University ERICA SBCML
+                                                                           2026. 06. 30
+Contents
+
+                 01   학력사항 및 소개
+                      Educational Background
+
+
+
+                 02   연구관심분야 및 실적
+                      Research Interests & Publications
+
+
+
+                 03   융복합 대표연구
+                      Interdisciplinary Research Cases
+
+
+
+                 04   향후 연구계획
+                      Future Research Agenda
+
+
+
+                 05   교육프로그램 및 철학
+                      Teaching Program & Philosophy
+
+
+
+
+2026-1학기 강남대학교
+  교원 초빙 공개발표
+
+
+                                                          2
+01. 학력사항 및 소개
+       Career Overview
+
+                                                                                                              2026. 1학기 강남대학교 발표자료
+
+
+1997
+                  경희대학교
+          B.S. in Electronics and Radio
+                   Engineering
+2007                                                       “Qualifications & Capabilities”
+                                                           for Smart Construction Management
+                  한양대학교
+              B.S. in Architecture
+
+2010                                          1. Architectural design concept and philosophy
+                                              2. Various knowledge related to architectural engineering
+                  서울대학교
+             M.S. in Architecture and         3. Diverse interdisciplinary research
+            Architectural Engineering
+2014                                                  Design                          Construction                    Interdisciplinary
+
+                  서울대학교
+            Ph.D. in Architecture and                                                                           Focusing on Interdisciplinary
+            Architectural Engineering     Conducting a design studio         Establishing foundation of
+                                          using Revit Architecture           architectural engineering          Research
+2018                                                                                                            ▪   Green-maintenance-IT
+                                          ▪   Fundamental knowledge of BIM   ▪   Safety, Environment, Cost,
+                                                                                                                    Construction-safety-IT
+             한양대학교                        ▪   Practical applications             Schedule management
+                                                                                                                ▪
+                                                                                                                ▪   Design-construction-IT
+         인공지능 건설기술연구센터
+              Research Professor
+2022
+            현대건설 기술연구원                        Balanced and Integrated Mindset for Construction
+             스마트건설연구실
+               Senior Researcher
+
+
+
+
+                                                                                                                                             3
+02. 연구관심분야 및 실적
+              Publications - SCI Papers
+
+                                                                                                                                                        2026. 1학기 강남대학교 발표자료
+
+
+
+       연구실적
+              총 33편의 SCIE 논문 게재 (주저자 및 교신저자 : SCI급 논문 27편)
+Constr. IT
+              1.  2026_“Physics-regularized deep learning framework for floor impact sound prediction in residential buildings: A civil engineering approach.” Results in Engineering / Q1
+              2.  2026_“Bridging the Expert–Novice Cognitive Divide in Modular Construction Design: A Bayesian BWM and Fuzzy DEMATEL Analysis of Designer Competency Priorities.”
+                  Sustainability / Q2
+ Safety       3. 2025_“Developing a Life Cycle Assessment-based Framework for Module-based Impact Distribution in Adaptive Reuse of Modular Buildings.” Journal of Building Engineering / Q1
+ & Risk
+              4. 2025_“TOPSIS and AHP-Based Multi-Criteria Decision-Making Approach for Evaluating Redevelopment in Old Residential Projects.” Sustainability / Q2
+              5. 2025_“Developing an Automated Framework for Eco-Label Information Categorization Using Web Crawling and Natural Language Processing Techniques.” Expert Systems with
+ Constr.          Applications / Q1
+  Noise       6. 2025_“Computing green remodeling construction cost for public buildings based on genetic algorithm and case-based reasoning.” Developments in the Built Environment / Q1
+              7. 2025_“Developing a Framework for Evaluating Project Feasibility of Disaster Management Facilities: Case Studies of a Protective Shelter in South Korea.” Journal of Management in
+                  Engineering / Q1
+Mainten
+ ance         8. 2024_“Advancing Modular Construction through Circular Economy: Insights from Semi-Automated PRISMA Analysis and Topic Modeling.” Journal of Building Engineering / Q1
+              9. 2024_“Deriving the Importance of Defects in Multi-Unit Residential Buildings Using the Analytic Hierarchy Process Method.” Buildings / Q2
+              10. 2024_“Sensing Perceived Urban Stress Using Space Syntactical and Urban Building Density Data: A Machine Learning-based Approach.” Building and Environment / Q1
+ Energy       11. 2024_“Risk Evaluation of Radioactive Concrete Structure Decommissioning in Nuclear Power Plants Using Fuzzy-AHP.” Buildings / Q2
+              12. 2024_“Construction Safety Innovation and Barriers in Different Company Types and Sizes: A Survey in Vietnam.” KSCE Journal of Civil Engineering / Q2
+ Modular
+              13. 2022_“Deep Learning Based Urban Building Coverage Ratio Estimation Focusing on Rapid Urbanization Areas” Applied Sciences / Q2
+ Constr.      14. 2022_“The moderating effect of project type on the relationship between project delivery system and cost performance.” Journal of Management in Engineering / Q1
+              15. 2021_“Developing a machine learning-based building repair time estimation model considering weight assigning methods.” Journal of Building Engineering / Q1
+              16. 2020_“Reduction and transformation of energy use data for end-user group categorization in dormitory buildings.” Journal of Building Engineering / Q1
+City Plan
+              17. 2020_“Estimating the Performance of Heavy Impact Sound Insulation Using Empirical Approaches.” Journal of Asian Architecture and Building Engineering / Q3
+              18. 2020_“Maintenance Cost Prediction for Aging Residential Buildings based on Case-Based Reasoning and Genetic Algorithm.” Journal of Building Engineering / Q1
+              19. 2019_“Forecasting Repair Schedule for Building Components Based on Case-Based Reasoning and Fuzzy-AHP.” Sustainability / Q2
+Business      20. 2019_“Compensation Cost Estimation Model for Construction Noise Claims Using Case-Based Reasoning.” Journal of Construction Engineering and Management / Q1
+ Model
+              21. 2019_“Preliminary Service Life Estimation Model for MEP Components Using Case-Based Reasoning and Genetic Algorithm.” Sustainability / Q2
+              22. 2019_“Business Models and Performance of International Construction Companies.” Sustainability / Q2
+Feasibility   23. 2019_“Development of an Energy Saving Strategy Model for Retrofitting Existing Buildings: A Korean Case Study.” Energies / Q3
+ analysis     24. 2019_“Performance Evaluation of Distance Measurements for Construction Noise Prediction Using Case-Based Reasoning.” Sustainability / Q2
+              25. 2018_“Construction Noise Risk Assessment Model Focusing on Construction Equipment.” Journal of Construction Engineering and Management / Q1
+ Sensing
+              26. 2017_“Construction Noise Prediction Model Based on Case-Based Reasoning in the Preconstruction Phase.” Journal of Construction Engineering and Management / Q1
+              27. 2019_“Construction Noise Management Using Active Noise Control Techniques.” Journal of Construction Engineering and Management / Q1
+
+
+
+                                                                                                                                                                                                     4
+02. 연구관심분야 및 실적
+   Papers in Progress
+
+                                                                                                           2026. 1학기 강남대학교 발표자료
+
+
+
+ Under Review (6 papers)
+    Automation in Construction: BIM-enabled passport for reused volumetric modules in relocatable modular building systems [Under
+    review, 교신저자]
+    Developments in Built Environment: A Hybrid Intelligent Framework for Building Retrofitting Cost Analytics: Integrating Segmented
+    Classification with Transfer Learning-based Regressors [Under review, 1저자]
+    Journal of Construction Engineering and Management: Uncertainty-Aware Building Retrofit Cost Prediction via Case-Based
+    Reasoning with Monte Carlo Dropout and Feature Reduction [Under review, 1저자]
+    Developments in Built Environment: Exploring Space Adequacy Thresholds in Modular Hospitals: A Simulation-Based Monotone
+    Regression Approach [Under review, 교신저자]
+    Building and Environment: Low-Carbon Retrofits of Existing Buildings: Evidence Gaps in Occupant Safeguards, Resilience, Equity, and
+    Life-Cycle Carbon Accounting [Under review, 1저자]
+    Building and Environment: Deep Learning-Based Identification of Inter-Floor Impact Noise: Benchmarking CNN and Transformer
+    Architectures with Real-World Data [Under review, 교신저자]
+
+
+
+
+ 향후 논문작성 계획
+     Paper on Building Maintenance using Deep Learning & NLP technologies [Linked to research project, SCI]
+
+     Paper on AI agent-based Safety & BIM Interactive System [Linked to research project, SCI]
+
+
+
+
+                                                                                                                                          5
+03. 융복합 대표연구
+            Smart Construction & Construction Management
+
+                                                                          2026. 1학기 강남대학교 발표자료
+
+
+
+  R&D 프로젝트 (2012-현재)
+        •     약 25건의 R&D 프로젝트 수행
+                                                                    국토교통기술촉진 연구사업
+             - 정부 발주 프로젝트: 20
+             - 민간 발주 프로젝트: 5                              연구기획
+
+                        R&D projects
+      BIM-based Integrated cooperation work system
+      IoT-based smart modular envelope package
+      Intelligent Integrated management support system
+      Innovative construction cost engineering research
+      Construction manpower monitoring system
+      Overseas CM implementation project
+      Development of drone-based crack detection system
+      Construction automation platform development
+
+                                        주도적인 프로젝트 수행
+ 연구책임자 4건
+ 1.    건설근로자 사고예방을 위한 딥러닝 기반 피로도 및 위험도 예측 연구 (2019. 04~2021. 03, 연구책임자)
+ 2.    행동패턴인식 기술을 활용한 딥러닝 기반 건설작업자 생산성 추정 시스템 개발 (2020. 6~2022. 11, 연구책임자)
+ 3.    KoBERT 기반 자연어 처리 및 Transformer 알고리즘을 활용한 건축물 하자 및 유지관리 플랫폼 개발
+      [세종과학펠로우쉽 연구과제 선정, 2024.5~2029.4, 연구책임자]
+ 4.    모듈형 스마트 융복합 외피시스템(IUES) 고도화 (2026.07~2028, 연구책임자)
+
+
+                                                                                             6
+03. 융복합 대표연구
+    Research and Development – Completed Projects
+
+                                                             2026. 1학기 강남대학교 발표자료
+
+
+
+ 대공간 지붕구조 설계/시공을 위한 BIM 활용 매뉴얼 개발
+         BIM을 활용한 가상 설계 및 건설
+     •   연성개폐 시공 계획 및 시공 지침(서) 마련
+     •   테스트베드 활용 Case study 및 시공성 개선사항 정리
+     •   BIM 활용 매뉴얼 구축 및 통합 BIM 설계/시공매뉴얼 작성
+
+         100% completed
+
+
+
+
+  [연성 개폐 지붕 구조 시공지침(서)]                  [BIM-공정 연계 시뮬레이션]   [BIM 활용 매뉴얼 구축
+                                                                및 특허등록]
+
+
+                      BIM 모델과 실제 공정을 연계한 시뮬레이션 진행
+
+
+                                                                                7
+03. 융복합 대표연구
+        Research and Development – Completed Projects
+
+                                                                    2026. 1학기 강남대학교 발표자료
+
+
+
+ Wearable 디바이스를 활용한 건설 작업자 피로도 및 위험도 평가
+          Technology Advancement Research Program
+            •    건설 작업자 안전사고를 방지하기 위한 모니터링 시스템 개발
+            •    생체데이터와 딥러닝 알고리즘, 생태순간평가 기법
+            •    웨어러블 디바이스 프로토타입 완성, 오차율 20%
+            •    환경관리, 공정관리, 인력관리로 확장
+
+
+
+
+  Heart rate, accelerometer, and gyroscope data
+
+
+
+
+                                                                        특허등록
+                                                                    (피로도 모니터링 시스템)
+
+                                              웨어러블 디바이스, 딥러닝을 활용한
+                                                융합연구를 지속적으로 수행
+
+                                                                                       8
+03. 융복합 대표연구
+        Research and Development – Completed Projects
+
+                                                                     2026. 1학기 강남대학교 발표자료
+
+
+  모듈러 건축 (Offsite Construction)
+         유닛의 생산성
+         • 방법론: DfMA (Design for manufacture and assembly) 방법론
+         • 연구범위: 공장제작 과정의 철골조 모듈러 유닛
+
+ Design of Unit Housing Based on Modular   DfMA-based alternatives
+
+
+
+
+                       공장 제작, 설계 프로세스 최적화 필요
+           BIM과 AI agent 기반 모듈러 설계 및 제작 프로세스 연구 수행 예정
+
+                                                                                        9
+04. 향후 연구계획
+             Research and Development – Sejong Science Fellowship
+
+                                                                                    2026. 1학기 강남대학교 발표자료
+
+
+
+  ⚫ KoBERT 기반 자연어 처리 및 Transformer 알고리즘을 활용한 건축물 하자 및 유지관리 플랫폼 개발
+     2024년 5월, 세종과학펠로우십 연구과제로 선정 (연구책임자)
+     연구기간: 2024. 5~ 2029. 4 (5년)
+
+
+                    Research Process
+
+
+Year 1                   하자 및 유지관리를 위한 영향요소
+         데이터베이스 구축
+                         의 도출 및 데이터베이스 구축
+
+Year 2                   AI 기반 건축물 하자 및 유지관리 프
+           하자 예측
+                         레임워크 개발 [Transfer Learning]
+
+
+Year 3                   Transformer 기반 하자 및 유지관
+         하자 식별 및 평가
+                         리 항목 식별 및 검출 알고리즘 개발
+
+Year 4                   KoBERT 기반 건축물 하자 및 유지
+           하자 분류
+                         관리 항목 분류 및 문서 자동화
+                                                        AI 기반 유지관리   Transformer 기반 하자   항목 분류 및 문서자동화
+                                                         예측 모델 개발     검출 및 평가 알고리즘           알고리즘
+Year 5                   스마트 건축물 하자 및 유지관리 플
+           하자 관리
+                         랫폼 설계 및 검증
+
+
+
+          Smart Maintenance Platform
+         Using KoBERT & Transformer Algorithms
+
+
+
+                                                                                                      10
+04. 향후 연구계획
+    Research and Development – Automation Platform At HD E&C
+
+                                                                             2026. 1학기 강남대학교 발표자료
+
+
+⚫ [현대건설기술연구원] 건설자동화 플랫폼 기획 (3개월 소요) – 현장 실시간 모니터링과 디지털 현장관리 구분
+ • 무인드론, 로봇, 라이다, 스마트글래스를 활용 실시간 모니터링 + AI/빅데이터 분석
+→ 안전관리, 품질관리, 공정관리의 자동화 실현
+→ 건설자동화 플랫폼 실현을 위한 주요 6가지의 핵심기술 정의
+
+    건설자동화 플랫폼 개념도                                              6가지 핵심기술 상세
+
+
+
+
+                                                                                               11
+04. 향후 연구계획
+     Research and Development – Future Plan
+
+                                                                                                                2026. 1학기 강남대학교 발표자료
+
+
+
+ ⚫ [정의된 핵심기술] 지능형 장비 안전관리 기술, 빅데이터/AI 기반 현장리스크 분석 기술
+     고도화: 지능형 가상 현실(VR) 기반 모듈러 시공 및 안전을 위한 Interactive 플랫폼 개발
+ → 1) 모듈러 제작·시공 프로세스 최적화, 2) AI 기반 현장 위험상황 인식모델 개발, 3) 모듈러 제작/시공 통합관리 플랫폼
+
+           기존                                                                                                                                 추가
+           연구                                          지능형 가상 현실(VR) 기반 모듈러 건축 제작/시공/안전 Interactive 플랫폼 개발
+                                                                                                                                              연구
+                                         디지털 트윈 및 지능형 가상현실 기반 모듈러 제작 프로세스                                  모듈러 건축 제작  시공 통합 안전관리 플랫폼
+
+
+                                                                                                      모듈러 건축 통합 안전관리
+                                                                                                       공장제작 및 현장시공 맞춤형 안전관리요소 시각화
+                                                                                                       위험요소 발생 가능성에 따른 알림 시스템 개발
+
+                                                                                                                                    건설 기업체 협력 가능
+                                                                                                      모듈러 건축 맞춤형 안전관리 매뉴얼 및 지침
+                                                                                                        모듈러 특수 공정에 따른 예방적 안전관리 체계 구축
+                                         실시간 상호작용 및 피드백 3D 모델링 및 시각화                                    시계열 데이터에 따른 작업 별 매뉴얼 및 지침 제공
+                                          가상현실을 통해 사용자는 실제와 유사한 환경에서 다양한 시나리오 경험                        건설 기업체와 협력하여 실증 및 공동 개발 가능
+                                          가상현실은 복잡한 건설 구조물이나 기계 장치들을 3D로 모델링하고 시각화                                                   연구기관 협력 가능
+                                          함으로써, 사용자가 보다 직관적으로 정보를 이해하고 접근                             Interactive 플랫폼 개발
+                                                                                                        알림시스템과 연계한 위험요인 발생 로그 구축
+                                                                                                        위험 알림에 대한 작업자 피드백을 위한 App 연동
+                                                  Agentic AI 기반 현장 위험상황 인식 모델 개발                        위험알림 발생 후 조치결과 입력 요소 사전공지
+                                                                                                        연구기관 협력 및 공유를 통해 개발 가능
+                                                                                                                                     공공 및 민간 협력
+                                         공장제작 및 현장시공 안전 데이터 수집
+                                                                                                      공공 발주 프로젝트 Test - Bed 적용
+                                          유형 별 데이터 획득 범위 및 실현가능성 검토
+                                                                                                       공공부문 모듈러 프로젝트 제작 및 현장시공 단계 시범적용
+                                          공장제작 및 현장의 유닛 양중  조립과정 위험요인 이미지 데이터 수집
+                                                                                                       LH와 연계하여 실증 가능
+                                                                                                       프로젝트 참여자 별 통합안전관리 시스템 Feedback 및 플랫폼 고도화
+                                         인공지능 기반 위험인식 모델 개발
+                                          유형 별 이미지 분류 및 상관관계 분석을 통한 학습데이터 구축                                           Data
+
+
+                                                                          단계   위험 수준    description
+                                          Input                  Output          1
+
+
+
+안전관리기술
+                                                                          1            정상
+
+
+
+                                                          한양대(시스템개발)/모듈러제작업체/LH 연계(실증)
+                                                                                 20
+
+                                                                 사고발생            20
+                                          관리기준                            2            정상
+                                                                  가능성            40
+
+
+
+
+     지능형 장비 안전 관리 /
+                                                                                 40
+
+
+
+
+                                                             국토교통과학기술진흥원 제안 예정
+                                                                          3            주의
+                                          위험요인                   알림 신호           60
+                                                                                 60
+                                                                          4            위험
+
+
+
+ 빅데이터 기반 현장리스크 분석 기술 활용
+                                                                                 80
+                                           Etc.                   Etc.
+                                                                                 80    매우
+                                                                          5
+                                                                                100    위험
+
+
+
+
+                                                                                                                                                  12
+04. 향후 연구계획
+                    Research and Development – Future Plan
+
+                                                                                                                                                         2026. 1학기 강남대학교 발표자료
+
+  기 연구에서 개발된 AI 기반 현장 위험상황 인식모델
+  고도화 : 건설현장 위험요인 자동인지 및 리스크 모델링 기술 개발
+→ 현장에서 취득된 자료(드론,LiDAR,CCTV 등)를 기반으로 AI/디지털 트윈/빅데이터 기술을 결합
+→ 건설현장별/공종별 위험요인 자동인지 및 모델링 SW 개발 목표
+→ Digital Twin과 가상환경 기술을 이용하여 위험요인과 관련된 정보를 시각화 및 실시간 추적관리 목표
+ 인공지능 Interactive 플랫폼 기술                                                          건설현장 위험요인 자동 인지 및 모델링 기술                                                            3D/360 camera 기반 건설
+                                                                                                                                                                       현장별/공종별 위험요인
+                                                                                                                                                                       자동인지 및 모델링 SW
+                                                                 [인공지능]                                                              [통합관리]
+      인공지능 기반 현장 위험상황 인식 개발
+                                                               작업환경 및 위험요인              입                                       위험요인 모니터링 및
+                                                                                        력                                                                        예시
+                                                                인식 인공지능 기술                      현장 영상정보                           추적관리 기술
+현장의 시공 안전 데이터 수집                                                                                             객체 인식 기술 연계
+ 유형 별 데이터 획득 범위 및 실현가능성 검토                                                                                                                                                              작업
+ 건설현장 위험요인 이미지 데이터 수집                                                                                  입                                                              Detect
+
+                                                                                                                                                                                        발판
+                                                                                                       력                                                                                안전
+ 주요 위험요인 도출 데이터
+                                                                                              [디지털트윈]                                                                                   난간
+                                                                                                                                                                                       개구부덮개
+
+                                                                                            작업환경 및 위험요인
+                                                                                              모델링 기술                                                                  건설현장 위험요인
+인공지능 기반 위험인식 모델 개발
+                                                                                                                 현장영상 시각화                                               객체인식
+ 유형 별 이미지 분류 및 상관관계 분석을 통한                                          연
+                                                                    계                                                                                                                  사다리
+ 학습데이터 구축                                                                                                                                                                              이동식
+                                                                                                                   [가상현실]                                                               비계
+                                                                        현장 영상 DB
+                                                                                                                               추적관리
+                                                                                                               VR 기반 위험요인 현장
+       Input                             Output
+                                                                         COSMIS                                   관리 시각화 기술    시각화
+                                                                                                                                               적용
+                                         사고발생
+       관리기준
+                                          가능성
+                                                                    안전보건공단 DB
+       위험요인                              알림 신호
+                                                                                                                                                                  3D camera 기반 현장
+                                                                    각종 안전사고 DB              산업계        입
+                                                                                                                                                                 영상 정보로부터 작업환경 및
+        Etc.                              Etc.                                                         력                                                                                작
+                                                                                            Feedback                                                               위험요인 객체 인식
+                                                                                                                                                                                        업
+                                                  기존 연구 및 기술     Feedback
+                                                                                                                                                         연구 결과                          환
+ 단계     위험 수준                                                                                                                                                                           경
+                                                   기반 추가 연구
+                           description
+                                                                                                              Feedback
+ 1
+               1
+                      정상
+                                                                                                                                 자체 실증 및 종합
+               20                                                                                                                  테스트베드
+               20
+ 2                    정상
+                                                                                   학계                         연구계
+                                                                                                                                           연구재단 중견연구
+               40
+
+               40
+                                                                                        산학연 협력 체계망 구축 가능
+                                                                                                                                개발                  검증
+                      주의
+                                                                                                                                                가상환경 기술을 이용한
+ 3
+               60
+                                                                                                                 Feedback
+
+
+                                                                                                                                        / 산업통상자원부   제안     계획
+                                                                                                                                                   위험요인 관련
+                                                                                                                                       테스트베드
+               60
+ 4                    위험
+               80                                                                                          자체실증 및 시범적용                          정보 시각화 및 추적관리
+ 5
+           100
+               80
+                      매우
+                      위험
+                                                               Data 연계 Feedback 기술연계
+
+
+
+
+                                                                                                                                                                                        13
+04. 향후 연구계획
+       Research and Development – Future Plan
+
+                                                                                         2026. 1학기 강남대학교 발표자료
+
+
+   기존 개발된 기술, 신규 기술을 연계,
+   스마트 건설관리 / 디지털트윈 모델링 / VR 플랫폼 / 통합데이터 분석 / Interactive 자동화 시스템 등
+   다양한 분야로 연구확장이 가능할 것이라 판단
+→ 연구의 연속성을 갖도록 기술을 융합/연계하여 구체적인 연구계획 수립 및 연구비 수주
+
+                                                   핵심 기술을 이용하여 융복합 가능 및 추가 연구 수주 가능
+   스마트건설
+                     인공지능&                         핵심 기술                                   기술 융복합
+   관리기술 분야           디지털트윈
+                                                   통합관리
+
+
+   디지털트윈
+ 모델링 기술 분야
+                                       인공지능                디지털트윈
+                       모델구축
+ VR 시뮬레이션              가상현실
+    기술 분야
+
+
+
+   통합데이터
+                                                           한양대 ERC팀 준비 (집단연구)
+  분석/관리기술 분야
+                                        디지털 트윈 통합 플랫폼 구축      생성형 AI 및 LLM 기반 예측 모델 개발         통합 데이터 관리
+                       통합관리
+                        시스템
+ Interactive 자동화
+  시스템 기술 분야
+
+
+
+
+                                                                                                           14
+05. 교육프로그램 및 철학
+   Lecture Program
+
+                                               2026. 1학기 강남대학교 발표자료
+
+
+
+
+  Plan for an Industry-Coupled Problem-Solving Lecture
+  Program
+  : 통합된 영역으로서 건설, 문제해결능력
+
+  Plan for a Knowledge-Based Lecture Program
+  : 특강, Co-teaching을 통한 전공분야에 대한 심화학습
+
+  Plan to Support Internship Programs
+  : 다양한 실제 업무를 경험
+
+  Plan to Suggest Various Directions for Acquiring Knowledge
+  : 지식을 쌓는 다양한 방향
+
+  Focus on Communication and Moral Education
+  : 올바른 윤리관과 소통 역량
+
+                                                                 15
+Contribution to Kangnam University                                          2026. 1학기 강남대학교 발표자료
+
+
+ With Self-direction, Inclusiveness, and Practical Action
+                 홍익인간의 창학이념을 기반으로 4차 산업혁명을 선도할 스마트건설 전문인재 양성
+                                                           융복합적 창의역량 강화
+                      자주적 인재
+                                                     融 [자기주도+]
+                          AI 기반
+                                                                포용적 글로벌 시민의식
+                       자기주도학습                              人 [창의융합+]
+ 자주적〮포용적〮실천적
+
+
+
+
+                                                    핵심역량
+                                                                                  지역사회〮복지사회에
+
+
+
+
+                                   인재상
+    스마트 건설          포용적 인재
+                  사용자〮지역사회               경천애인                    지역사회 소통·협력
+                                                             協 [협업+]              기여하는 안전하고,
+   전문인재 양성         중심 건축환경
+                                          敬天愛人
+                                                                현장문제 해결형 사고        지속가능한 건축
+                      실천적 인재
+                                                           場    [종합적 사고+]
+                     현장문제 해결형
+                                                            정보·자원·ICT 기술 활용
+                      프로젝트 수행                        福      [ICT 융합 혁신+]
+
+
+
+ Collaborating with distinguished faculty members at Kangnam University
+
+
+
+
+                    하상수 교수님        이성찬 교수님       박종진 교수님             최연희 교수님      박우평 교수님
+
+
+
+                                                                                               16
+THANK YOU
+
+
+
+
+            17
+Appendix #1                                    2026. 1학기 강남대학교 발표자료
+
+
+ “한양대학교 조기취업형 계약학과 선도대학원 육성사업” 참여, 최종 선정 (2024.5 / 예산: 25억/년)
+ PM: 제안서 및 발표자료의 기획 및 작성 총괄
+ → 대학 및 학과 차원의 사업을 추진하는 데 참여, 기여할 것
+
+
+
+
+                                                                 18
+Appendix #2               2026. 1학기 강남대학교 발표자료
+
+
+
+
+  BIM
+  Practices
+  Completed by Students
+  during the Semester
+
+
+
+
+                                            19
+Appendix #2               2026. 1학기 강남대학교 발표자료
+
+
+
+
+  BIM
+  Practices
+  Completed by Students
+  during the Semester
+
+
+
+
+                                            20
+Appendix #2               2026. 1학기 강남대학교 발표자료
+
+
+
+
+  BIM
+  Practices
+  Completed by Students
+  during the Semester
+
+
+
+
+                                            21
+
