@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld><p:spTree>
+    <p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr>
+    <p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+    <p:sp>
+    <p:nvSpPr><p:cNvPr id="2" name="image-frame"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6473952" y="1874520"/><a:ext cx="4983480" cy="3401568"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="3" name="img_0653_1339x495.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="6565392" y="2687964"/><a:ext cx="4800600" cy="1774680"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="4" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6473952" y="5358384"/><a:ext cx="4983480" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>BIM and digital twin-based infrastructure modeling | 스마트건설관리공학_최종.pdf</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="5" name="section"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="219456"/><a:ext cx="1051560" cy="310896"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120" b="1"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>추가 4</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="6" name="title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="566928"/><a:ext cx="11155680" cy="475488"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="2550"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2550" b="1"><a:solidFill><a:srgbClr val="123C69"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>현장 데이터와 Digital Twin</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="7" name="core"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1115568"/><a:ext cx="10972800" cy="566928"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320" b="1"><a:solidFill><a:srgbClr val="123C69"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>스마트시티 건설관리의 출발점은 현장 변화를 정밀하게 계측하고, 이를 Digital Map과 As-built BIM으로 전환하는 것이다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="8" name="card1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1883664"/><a:ext cx="5486400" cy="1078992"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>기술</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 드론, LiDAR, MMS, 센서 네트워크</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• CPS, AR/VR/MR</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 열화·진동·환경 모니터링</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="9" name="card2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="3054096"/><a:ext cx="5486400" cy="1078992"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>현재 한계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 단순 측량 수준에 머무는 경우가 많음</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 현장 의사결정 정보 생성 부족</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 2D 도면·구두 설명 중심의 정보 공유</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="10" name="card3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="4224528"/><a:ext cx="5486400" cy="1078992"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1320"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1320" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>개선방향</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• AI 기반 자율계측</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 초정밀 Digital Map 자동 생성</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="950"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="950"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• As-built BIM 및 City Digital Twin 연계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="11" name="footer"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="5715000"/><a:ext cx="10972800" cy="493776"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1180"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1180" b="1"><a:solidFill><a:srgbClr val="0F426E"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Digital Map → As-built BIM → City Digital Twin</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="12" name="brand"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8229600" y="6464808"/><a:ext cx="3291840" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="820"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="820"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City Construction Management</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+  </p:spTree></p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>
