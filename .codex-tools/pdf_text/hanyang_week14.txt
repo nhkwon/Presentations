@@ -1,0 +1,431 @@
+한양대학교
+
+스마트시티 거버넌스(교안)
+- 14주차: 국내·외 스마트시티 기술 Gap 분석
+
+
+
+
+2024. 06. 07.
+스마트시티공학과 교수
+경영학 박사 김기현
+도메인별 적용기술 및 Mega Trend 도출
+도메인별 적용기술 및 Mega Trend를 도출
+
+                          Energy                                 Mobility                        Environment Building & Infra            Government                     Healthcare                         People           Living
+
+                                                                               Integrated                                                           Remote
+                    Smart          Renewable                 Intelligent                           Intelligent      High      Real-time
+                                                  Smart                           Multi-                                                Emergency    Patient                      Emergency   Citizen                         Public
+                    Meter&         Sources of                  Traffic                           Environmental Performance Incident                                                                    eLearning
+                                                 Parking                         modal                                                   Dispatch Diagnostic &                     Response Engagement                     Information
+                    Mgmt             Energy                    Mgmt                                  Mgmt      Building/Infra Response
+                                                                                Transport                                                          Monitoring
+                                                           실시간신호제어 Maas, AV,
+  Future of                                                , 및 교통정보 Connected
+  Mobility                                                                                          3         9                     1 2 20                                                                                      2
+                                                     3       1    2     9    20     21      24
+
+                  VPP, EDM,
+  Future of       Smart Grid
+   Energy         11 13 15                                                                          11    15                                                                                                                    15
+
+                                Smart Grid
+Innovation to                   (PV, Wind)
+    Zero                         11 15                                                                                                                                                                                          11
+
+                                                                                                                  Digital Twin,
+Future Building                                                                                                   BEMS, Lighting
+    & Infra       10   14 16     10 16                                                                   12       10 12 14 16
+                                                                                                  Water, Air,
+Smart is the                                                                                      Waste Mgmt
+New Green                                                                                         4 5 8 17                                                                                                                  4    8    17
+                                                                                                                                   Crime         Earthquake
+Future Public                                                                                                                      Monitoring    Monitoring
+   Safety                                                                                                                            7      18         6                                                                    6   18
+
+  Health,                                                                                                                                                        Tele            Wearable
+                                                                                                                                                                 Medicine        Device
+ Wellness,
+ Well-being                                                                                                                                                             23              22
+                                                                                                                                                                                                  Living Lab   AI based    VR Info.
+Urbanization
+                                                                                                                                                                                                               Education   System
+    as a
+                                                                                                                                                                                                      25            26      19 25
+ Customer
+
+
+
+
+                   © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+                   All rights reserved. Printed in Korea.                                                                                                                                                                             2
+Mega Trend 및 도메인별 적용기술의 정의
+도출된 8대 Mega Trend 및 도메인별 적용기술의 정의는 하기와 같음
+
+
+                Mega Trend의 정의                                                                                                        도메인별 적용기술의 정의
+
+                                                                                                                Energy                                                                         Government
+  Future of     ▪ Traffic Control System, MaaS, AV1) 등
+  Mobility        차세대 기술을 활용한 Mobility                                                Smart Meter &                 ▪ 스마트 미터기를 활용한                                    Real-time Incident             ▪ AI 분석 및 데이터를
+                  활성화                                                                  Management                     전력/에너지 관리                                           Response                     활용한 실시간 사고 대응
+  Future of     ▪ VPP 등 에너지 Management 기술을                                       Renewable Sources of                                                                    Emergency                   ▪ 재해재난 등 피해
+   Energy                                                                                                           ▪ 태양광, 풍력 등을 활용한
+                  활용한 에너지 효율화                                                          Energy                                                                             Dispatch                     최소화를 위한 긴급구난
+                                                                                                                      에너지 생산
+Innovation to   ▪ 탄소중립 실현을 위한 풍력, 태양광,                                                                         Mobility                                                                         Healthcare
+    Zero          연료전지 등 신재생에너지 활용
+                                                                                                                    ▪ IoT를 활용한 주차 공간                               RemotePatientDiagnostic&          ▪ 클라우드 등 기술 기반
+                                                                                      Smart Parking
+                                                                                                                      효율화                                                Monitoring                    비대면 환자 및 질병 관리
+Future Building ▪ 빌딩 및 시설물에 센서 (IoT) 등
+    & Infra       차세대 기술 기반 관리 및 최적화                                                                                ▪ 실사간 신호제어 등을                                                                    ▪ 센서 기반 독거노인 및
+                                                                                     Intelligent Traffic
+                                                                                                                                                                    Emergency Response
+                                                                                       Management                     활용한 이동 효율화                                                                       시민 실시간 건강 관리
+Smart is the    ▪ 센서 (IoT) 등 차세대 기술 기반
+New Green         환경 관리 제고                                                      Integrated Multi-Modal              ▪ AV, 대중교통 등 여러                                                                 People
+                                                                                       Transport                      교통수단 연계 이동
+                                                                                                                                                                     Citizen Engagement              ▪ 리빙랩 등 시민중심의
+Future Public   ▪ AI 기반 CCTV, IoT 기반 기술 등을                                                                                                                                                             시스템
+   Safety         활용한 치안 및 재해재난 방지                                                                  Enviornment
+                                                                               Integrated Environmental ▪ 센서기반 Waste, Air 및                                                                          ▪ AI 등 차세대 기술을
+                                                                                                                                                                           eLearning
+  Health,
+                ▪ 클라우드, AI 등을 활용한 의료
+                                                                                     Management             Water Quality 관리                                                                           활용한 교육 시스템
+ Wellness,
+ Well-being       서비스 및 노인들의 건강관리 제고
+                                                                                                          Building & Infra                                                                          Living
+Urbanization                                                                        High Performance
+    as a
+                ▪ 교육 시스템, 리빙랩 등을 활용한                                                                                ▪ BEMS, 센서를 활용한                                Public Information                ▪ 시민의 삶 제고를 위한
+                  도시화로 인해 발생되는 문제 대응                                                  Building/Infra                  빌딩/시설물 운영 최적화                                                                    데이터 및 정보 제공
+ Customer
+
+
+
+
+                 © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+                 All rights reserved. Printed in Korea.                                                                                                                                                               3
+국내·외 스마트시티 기술 Gap 분석(1/4)
+글로벌 우수사례와 국내 국가시범도시 기술 현황 간 Gap 분석
+                                                                                        Environ Building
+                                  Energy                       Mobility                  -ment & Infra Government                         Healthcare                 People             Living      도메인
+             글로벌
+                              에너지 과사용,                                     자원, 환경                재난 발생 多, 치안 고령층 증가, 의료 시민중심 서비스 및 시민삶의질
+            기술도입              CO2 과도 배출
+                                                     교통량 증가, 교통 정체 심화
+                                                                           문제 존재
+                                                                                       인구 급증
+                                                                                                     중요성 증대              접근성 저하           교육의 필요성 증대 제고 필요
+                                                                                                                                                                                                    Issue
+              현황              Smart Renewable Smart Intelligent Integrated Intelligent    High   Real-time            Remote              Citizen        Public
+                             Meter & Sources of Parking Traffic   Multi-     Environ- Performance Incident Emergency Patient Emergency Engage- eLearning Infor-                                     도입 기술 유형
+                                                                  modal       mental    Building            Dispatch Diagnostic, Response
+                             Mgmt     Energy            Mgmt                                     Response            Monitoring            ment          mation
+                                                                Transport Mgmt           /Infra
+국가시범도시                       11 13 11 15                 3        1    2     20 21        4    5     10 12        7 18          6          23          22           25         26          19       글로벌 우수사례
+기술 현황                        15                                   9          24           8 17       14 16
+       신재생에너지 공급                                                                                                                                                                                        System 사례 Pool
+에너지
+
+
+
+
+         관리 기술
+       에너지 스마트 거래
+        및 관리 기술
+         차량공유 기술
+
+       자율주행 모빌리티
+
+       통합 모빌리티 기술
+모빌리티
+
+
+
+
+       수요응답형 모빌리티
+           기술
+        스마트 주차 기술
+
+        스마트 도로 기술
+
+        보행자안전 기술
+         친환경 음식물
+         자원화 기술
+       SWM(Smart Water
+         Mgmt) 기술
+환경
+
+
+
+
+       안개발생 예측 기술
+        스마트 쓰레기 및
+        재활용 수거 기술
+       빌딩 內 스마트 대피
+인프라
+
+
+
+
+         에이전트 기술
+ 빌딩
+
+
+
+
+        시설물 이상진단
+         모니터링 기술
+
+
+                 © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+                 All rights reserved. Printed in Korea.                                                                                                                                                                  4
+국내·외 스마트시티 기술 Gap 분석(2/4)
+글로벌 우수사례와 국내 국가시범도시 기술 현황 간 Gap 분석
+                                                                                    Environ Building
+                              Energy                       Mobility                  -ment & Infra Government                         Healthcare                 People             Living      도메인
+           글로벌
+                          에너지 과사용,                                     자원, 환경                재난 발생 多, 치안 고령층 증가, 의료 시민중심 서비스 및 시민삶의질
+          기술도입            CO2 과도 배출
+                                                 교통량 증가, 교통 정체 심화
+                                                                       문제 존재
+                                                                                   인구 급증
+                                                                                                 중요성 증대              접근성 저하           교육의 필요성 증대 제고 필요
+                                                                                                                                                                                                Issue
+            현황            Smart Renewable Smart Intelligent Integrated Intelligent    High   Real-time            Remote              Citizen        Public
+                         Meter & Sources of Parking Traffic   Multi-     Environ- Performance Incident Emergency Patient Emergency Engage- eLearning Infor-                                     도입 기술 유형
+                                                              modal       mental    Building            Dispatch Diagnostic, Response
+                         Mgmt     Energy            Mgmt                                     Response            Monitoring            ment          mation
+                                                            Transport Mgmt           /Infra
+국가시범도시                   11 13 11 15                 3        1    2     20 21        4    5     10 12        7 18          6          23          22           25         26          19       글로벌 우수사례
+기술 현황                    15                                   9          24           8 17       14 16
+       도시 범죄예방 및                                                                                                                                                                                    System 사례 Pool
+         긴급대처 기술
+           지능형
+거버먼트
+
+
+
+
+        영상감시시스템
+          도시 물재해
+        통합관리시스템
+       화재 예방 및 진화
+          지원 시스템
+          개인 맞춤형
+         건강관리 기술
+         실시간 스마트
+       커뮤니티케어 기술
+헬스케어
+
+
+
+
+        스마트 헬스키퍼
+            기술
+        AI기반 응급의료
+           시스템
+         클라우드 기반
+       원스탑 의료 기술
+         온라인 스마트
+       학습공간 구축 기술
+피플
+
+
+
+
+       시민참여형 거버넌스
+       공연자-관객 맞춤
+          연계 기술
+         가변형 공연
+       문화공간 구축 기술
+        일괄배송 기술                                                                                                                                                                     미보유
+리빙
+
+
+
+
+       매장 內 안내로봇,                                                                                                                                                                   기술
+       자율주행카트 기술
+        스마트홈 기술
+       스마트 생활 편의
+          기술
+             © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+             All rights reserved. Printed in Korea.                                                                                                                                                                  5
+ 국내·외 스마트시티 기술 Gap 분석(3/4)
+ 글로벌 우수사례와 국내 혁신성장동력 프로젝트 기술 현황 간 Gap 분석
+                                                                                         Environ Building
+                                   Energy                       Mobility                  -ment & Infra Government                         Healthcare                 People             Living      도메인
+                글로벌
+                               에너지 과사용,                                     자원, 환경                재난 발생 多, 치안 고령층 증가, 의료 시민중심 서비스 및 시민삶의질
+               기술도입            CO2 과도 배출
+                                                      교통량 증가, 교통 정체 심화
+                                                                            문제 존재
+                                                                                        인구 급증
+                                                                                                      중요성 증대              접근성 저하           교육의 필요성 증대 제고 필요
+                                                                                                                                                                                                     Issue
+                 현황            Smart Renewable Smart Intelligent Integrated Intelligent    High   Real-time            Remote              Citizen        Public
+                              Meter & Sources of Parking Traffic   Multi-     Environ- Performance Incident Emergency Patient Emergency Engage- eLearning Infor-                                     도입 기술 유형
+                                                                   modal       mental    Building            Dispatch Diagnostic, Response
+                              Mgmt     Energy            Mgmt                                     Response            Monitoring            ment          mation
+                                                                 Transport Mgmt           /Infra
+혁신성장동력                        11 13 11 15                 3        1    2     20 21        4    5     10 12        7 18          6          23          22           25         26          19       글로벌 우수사례
+기술 현황                         15                                   9          24           8 17       14 16
+
+           건물/공장/공공시설물                                                                                                                                                                                   System 사례 Pool
+에너
+ 지
+
+
+
+
+           통합에너지관리 기술
+            스마트 모빌리티
+             활성화 기술
+ 모빌리티
+
+
+
+
+            스마트 모빌리티                                              미보유
+           이동수단 연계 기술                                              기술
+
+           주차공간 공유 기술
+
+           클라우드소싱 기반 대기
+ 빌딩 환경
+
+
+
+
+            환경 측정/예측 기술
+인프라
+
+
+
+
+           건물/공장/공공시설물
+           통합에너지관리 기술
+           경사지/수재해 예측
+           경보/긴급구난 기술
+            IoT 수위센서 기반
+ 거버먼트
+
+
+
+
+           수문 자동운용시스템
+            5D 기반의 도시
+            시설물 관리 기술
+           소셜 클라우드 소싱
+            및 포털 기술
+           독거노인 케어, 장애인
+      헬스
+리빙 피플 케어
+
+
+
+
+            이동성 보장 시스템
+           리빙랩형 혁신모델                                                                                                                                                         미보유
+            구축 및 운영                                                                                                                                                          기술
+                                                                                                                                                                                         미보유
+             추진 기술 無                                                                                                                                                                     기술
+
+
+                  © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+                  All rights reserved. Printed in Korea.                                                                                                                                                                  6
+ 국내·외 스마트시티 기술 Gap 분석(4/4)
+ 글로벌 우수사례와 국내 스마트시티 챌린지 과제 기술 현황 간 Gap 분석
+                                                                                          Environ Building
+                                    Energy                       Mobility                  -ment & Infra Government                         Healthcare                 People             Living      도메인
+                글로벌
+                                에너지 과사용,                                     자원, 환경                재난 발생 多, 치안 고령층 증가, 의료 시민중심 서비스 및 시민삶의질
+               기술도입             CO2 과도 배출
+                                                       교통량 증가, 교통 정체 심화
+                                                                             문제 존재
+                                                                                         인구 급증
+                                                                                                       중요성 증대              접근성 저하           교육의 필요성 증대 제고 필요
+                                                                                                                                                                                                      Issue
+                 현황             Smart Renewable Smart Intelligent Integrated Intelligent    High   Real-time            Remote              Citizen        Public
+                               Meter & Sources of Parking Traffic   Multi-     Environ- Performance Incident Emergency Patient Emergency Engage- eLearning Infor-                                     도입 기술 유형
+스마트시티                          Mgmt     Energy            Mgmt      modal
+                                                                  Transport Mgmt
+                                                                                mental    Building
+                                                                                           /Infra
+                                                                                                   Response   Dispatch Diagnostic, Response
+                                                                                                                       Monitoring            ment          mation
+챌린지 기술                         11 13 11 15                 3        1    2     20 21        4    5     10 12        7 18          6          23          22           25         26          19       글로벌 우수사례
+현황                             15                                   9          24           8 17       14 16
+에너
+
+
+
+
+             추진 기술 無             미보유 기술                                                                                                                                                                   System 사례 Pool
+지
+
+
+
+
+            주차공유+수요분담
+           기반 주차수요관리 기술
+            공공·민간 주차장
+           정보 연계, 공유 기술
+ 모빌리티
+
+
+
+
+             퍼스널 모빌리티-                                             미보유
+           대중교통-주차 연계 기술                                           기술
+             실시간 수요기반
+           자율경로 대중교통 기술
+           차량 내 부가서비스
+               제공 기술
+            스마트 쓰레기통,
+ 빌딩 환경
+
+
+
+
+           미세먼지 정보안내 기술
+인프라
+
+
+
+
+            데이터 기반 도로
+              유지관리 기술
+              스마트홈 통합
+            플랫폼 구축 기술
+            전기화재 모니터링
+ 거버먼트
+
+
+
+
+                기술
+             무인 드론안전망
+                기술
+            영상분석 기반 CCTV
+            선별관제 효율화 기술
+      헬스
+리빙 피플 케어
+
+
+
+
+             추진 기술 無                                                                                                                         미보유 기술
+
+             추진 기술 無                                                                                                                                                 미보유 기술
+                                                                                                                                                                                          미보유
+             추진 기술 無                                                                                                                                                                       기술
+                   © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“ International”), a Swiss entity.
+                   All rights reserved. Printed in Korea.                                                                                                                                                                  7
+Thank You
+

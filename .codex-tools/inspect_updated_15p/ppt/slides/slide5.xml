@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr><p:sp>
+    <p:nvSpPr><p:cNvPr id="2" name="topline"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="12191695" cy="109728"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="3" name="section label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="201168"/><a:ext cx="3200400" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City Construction Management</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="4" name="right label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8229600" y="201168"/><a:ext cx="3474720" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>2026.1학기 서울과학기술대학교 발표자료</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="5" name="title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="502920"/><a:ext cx="11064240" cy="502920"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="2200"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2200" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내 스마트시티·건설관리 Gap과 전환 필요성</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="6" name="page"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="11228832" y="6382512"/><a:ext cx="502920" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="800"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="800"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>5</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="7" name="core message"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1115568"/><a:ext cx="10972800" cy="512064"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1220"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1220" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내 건설산업의 생산성 격차와 스마트시티 기술성숙도 격차는 건설단계 데이터가 도시 운영으로 이어지지 못하는 구조적 문제와 연결된다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="8" name="card 주요 현황"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1828800"/><a:ext cx="5257800" cy="950976"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1220"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1220" b="1"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>주요 현황</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 국내 노동생산성: 선진국 대비 약 50% 수준</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 시간당 부가가치: 글로벌 $35.6 vs 국내 $18.7</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="9" name="card 스마트시티 Gap"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="2907792"/><a:ext cx="5257800" cy="950976"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1220"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1220" b="1"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>스마트시티 Gap</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 국내 스마트시티 발전단계: 3~4단계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 평균 TRL: 글로벌 7.1 vs 국내 5.3(74.6%)</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="10" name="card 전환 필요성"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="3986784"/><a:ext cx="5257800" cy="950976"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1220"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1220" b="1"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>전환 필요성</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 건설 데이터의 표준화·연계·검증 역량 필요</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="900"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="900"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>• 프로젝트 CM을 도시 인프라 운영관리로 확장</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="11" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6172200" y="1847088"/><a:ext cx="2487168" cy="1600200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="12" name="image11.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="6227064" y="1951611"/><a:ext cx="2377440" cy="1189986"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="13" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6217920" y="3200400"/><a:ext cx="2395728" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국가별 건설업 노동생산성 비교</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="14" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8915400" y="1847088"/><a:ext cx="2487168" cy="1600200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="15" name="image12.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId3"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="9246149" y="1901952"/><a:ext cx="1825671" cy="1289304"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="16" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8961120" y="3200400"/><a:ext cx="2395728" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>글로벌 선도 수준과 국내 수준 비교</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="17" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6656832" y="3712464"/><a:ext cx="4297680" cy="1572768"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="18" name="image13.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId4"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="6917845" y="3767328"/><a:ext cx="3775654" cy="1261872"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="19" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6702552" y="5038344"/><a:ext cx="4206240" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>건설기업·인프라 경쟁력 순위 비교</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="20" name="footer"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="5687568"/><a:ext cx="10972800" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1080"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1080" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>스마트시티 건설관리는 생산성 문제와 기술성숙도 gap을 동시에 줄이는 데이터 기반 전환 전략이다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp></p:spTree></p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>

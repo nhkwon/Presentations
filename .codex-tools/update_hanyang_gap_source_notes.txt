@@ -1,0 +1,6 @@
+Source notes for SeoulTech smart city construction management update
+
+- Existing deck: 서울과기대_스마트시티_추가섹션_14p_초안.pptx
+- Added source: (한양대학교) 스마트시티 거버넌스_14주차(240607) 교안.pdf, especially 국내·외 스마트시티 기술 Gap 분석, 사업의 시급성 slides: domestic smart city stage 3~4, average TRL global 7.1 vs Korea 5.3, Korea as 74.6% of global TRL, AI technology level 78.1% vs U.S. in 2017.
+- Supporting sources: (한양대학교) 스마트시티 거버넌스_3주차(240321) 교안_v1.pdf for CPS loop/data-platform framing; (한양대학교) 스마트시티 거버넌스_12~13주차(240531) 교안.pdf and 13~14주차 교안 for technology application, 실증-확산, 리빙랩, and governance framing.
+- Existing smart construction metrics retained from prior draft/source material: construction labor productivity below about 50% of advanced-country level; hourly value added global $35.6 vs Korea $18.7.

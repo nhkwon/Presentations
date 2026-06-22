@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr><p:sp>
+    <p:nvSpPr><p:cNvPr id="2" name="topline"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="12191695" cy="109728"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="3" name="section label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="201168"/><a:ext cx="3200400" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City Construction Management</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="4" name="right label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8229600" y="201168"/><a:ext cx="3474720" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>2026.1학기 서울과학기술대학교 발표자료</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="5" name="title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="502920"/><a:ext cx="11064240" cy="502920"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="2200"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2200" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>스마트시티 건설관리 발표 구성</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="6" name="page"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="11228832" y="6382512"/><a:ext cx="502920" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="800"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="800"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>2</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="7" name="core message"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1115568"/><a:ext cx="10972800" cy="512064"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1220"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1220" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>스마트시티와 건설관리의 관계에서 출발해 국내 기술 Gap, 개별 기술, 운영모델, 본인 연구 확장 순서로 전개한다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="8" name="agenda 1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="731520" y="1938528"/><a:ext cx="5029200" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>01   스마트시티와 건설관리의 관계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="9" name="agenda 2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="731520" y="2596896"/><a:ext cx="5029200" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>02   도시 인프라 생애주기 관점의 건설관리 역할</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="10" name="agenda 3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="731520" y="3255264"/><a:ext cx="5029200" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120" b="1"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>03   스마트시티 관련 건설관리 기술의 종류와 내용</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="11" name="agenda 4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="731520" y="3913632"/><a:ext cx="5029200" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>04   개별 기술: Digital Twin, 장비관제, 프리팹/BIM, 로보틱스, 안전관리</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="12" name="agenda 5"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="731520" y="4572000"/><a:ext cx="5029200" cy="457200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1120"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1120"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>05   국내 Gap 해소를 위한 운영모델 및 본인 연구 확장</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="13" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6309360" y="1920240"/><a:ext cx="1828800" cy="1508760"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="14" name="image2.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="6424578" y="1975104"/><a:ext cx="1598363" cy="1197864"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="15" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6355080" y="3182112"/><a:ext cx="1737360" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="16" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8275320" y="1920240"/><a:ext cx="1828800" cy="1508760"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="17" name="image3.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId3"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="8330184" y="1976946"/><a:ext cx="1719072" cy="1194179"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="18" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8321040" y="3182112"/><a:ext cx="1737360" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>BIM Integration</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="19" name="image panel"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="7315200" y="3657600"/><a:ext cx="2651760" cy="1664208"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F8FAFC"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/></p:txBody>
+  </p:sp>
+<p:pic>
+    <p:nvPicPr><p:cNvPr id="20" name="image4.jpg"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId4"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="7940635" y="3712464"/><a:ext cx="1400889" cy="1353312"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="9525"><a:solidFill><a:srgbClr val="B8C7D8"/></a:solidFill></a:ln></p:spPr>
+  </p:pic>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="21" name="caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="7360920" y="5074920"/><a:ext cx="2560320" cy="201168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="660"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="660"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Data Platform</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="22" name="footer"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="5806440"/><a:ext cx="10927080" cy="347472"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1020"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1020" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>기존 발표자료 뒤에 붙이는 스마트시티 건설관리 추가 섹션</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp></p:spTree></p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>

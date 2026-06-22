@@ -1,0 +1,1595 @@
+한양대학교
+
+스마트시티 거버넌스(교안)
+-3주차: 스마트시티 외부환경 분석
+
+
+
+
+2024. 03. 21,
+스마트시티공학과 교수
+경영학 박사 김기현
+글로벌 스마트시티 대표사례
+
+글로벌 대표 도시들은 도시의 특성에 맞는 다양한 형태의 스마트시티 모델을 구축
+
+
+
+
+   바르셀로나                 코펜하겐                  두바이
+  Smart City 3.0     Connecting Project     3D-printed
+ City OS – Open       & Smart Energy       Building, AI &
+  Data Platform          Solution           Blockchain
+
+
+
+
+      콜럼버스             암스테르담
+                                               싱가포르
+     Connected       Smart City Living
+                                          Virtual Singapore
+ Transport System     Lab & Digital
+                                             Digital Twin
+    (DoT Grant)        Ecosystem
+
+
+
+
+                             런던
+       시카고                                 리오데자네이로
+                       Smart Mobility
+ Array of Things &                          Integrated
+                        Living Lab &
+SmartData Platform                        Operation Centre
+                           JustPark
+
+
+
+
+                                                              2
+Agenda
+I.    CPS의 개념
+      -   정의
+      -   CPS, IoT, 빅데이터와의 관계
+      -   등장배경 및 활용분야
+
+
+II.   스마트시티 by CPS
+      -   CPS Reference Model Framework
+      -   도메인별 CPS based Smart Solution Concept
+
+
+II.   스마트시티 Mega Trend 도출
+CPS의 개념
+
+CPS는 물리시스템과 사이버시스템이 네트워크로 통합되고 동기화된 자율적 스마
+트 시스템으로 정의되며, IoT, 플랫폼 통합, 데이터 분석, AI가 핵심 기술임
+
+CPS(Cyber Physical System) 정의                                    CPS(Cyber Physical System) 핵심 기술
+
+             ▪ Cyber-physical systems (CPS) are smart systems                 ▪ 물리적 설비 간 연
+               that include engineered interacting networks of   사물인터넷          결되어 소통하는
+               physical and computational components               연결           Connected City 구
+               － 물리시스템과 사이버시스템 및 양자간 상호작                                        현
+                 용 네트워크를 포함하는 시스템으로 정의함
+                                                                              ▪ 전반 Process와 전
+                                                                                Value Chain을 플랫
+             ▪ CPS란 Sensor와 Actuator를 갖는 물리시스템과                  플랫폼 통합         폼에 통합              실물과 사이
+               이를 제어하는 컴퓨팅 요소가 결합된 네트워크 기                                                          버 세계를 디
+               반 분산 제어 시스템임
+                                                                                                   지털 기술로
+             ▪ 기존의 임베디드 SW가 전용 시스템의 기본적 운                                     ▪ Process에서 수집된      연결한 디지
+               영을 위한 기술이었다면, CPS는 이를 기반으로 지                        Data &       데이터를 실시간으
+               능적, 자율적 시스템 수행을 가능케하는 SW 기술                                      로 분석                털 트윈
+                                                                  Analytics
+               임
+
+             ▪ CPS는 정형화된 디지털 데이터로 구성된 IT시스
+               템과 물리적 세계가 네트워크로 통합되어, 실제 물                                    ▪ 자율화 및 최적화된
+               리적 세계의 작동이 디지털 세계에서도 동기화되                         인공지능 고         의사결정을 통해
+               고, 축적된 데이터에서 도출된 패턴과 알고리즘에                          도화           Process 자동화 및
+               의해 지능적으로 제어되는 시스템을 의미함                                           지능화
+
+
+Source:   NIST, 한국전자통신연구원 CPS 연구실
+
+
+                                                                                                            4
+CPS, IoT, 빅데이터의 관계
+
+CPS, IoT, 빅데이터는 지능형 스마트시티 서비스를 구축하는 3개의 축으로서, 서
+로 긴밀히 연결되어 고신뢰 제어, 시스템 간 연동, 지능적 분석 등을 실현함
+
+CPS(Cyber Physical System), IoT(Internet of Things), Big Data의 관계
+
+                                                                                    CPS, IoT, 빅데이터는 미래 지능
+                                        CPS                                         형 스마트시티 서비스를 구축하
+                                                                                    는데 핵심적인 3개 축
+                       “Physical systems meet Computing”
+                                                                                    ▪ CPS는 전체 시스템의 고신뢰
+                         Driven by Embed SW, Control Domain                           제어 실현
+                   Focus on dependable physical systems and Control                 ▪ IoT는 대규모 이종 시스템들간
+                                                                                      연동을 위한 개방성과 상호연
+                                                                                      동성 실현
+                  Networked Embedded                Model-based                     ▪ 빅데이터는 대용량 축적 데이
+                      ICT System                    Computing                         터 분석 및 의미 추출 기반 지
+                                        Smart                                         능성 확보 실현
+                                     Intelligence
+ “Embedded systems                                           “Meaningless data      CPS, IoT, 빅데이터는 서로 결합
+   meet Internet”                                            meet Intelligence”     되어 Smart Intelligence 구현
+      Driven by Network domain      Sensor-based       Driven by Server SW domain   ▪ CPS와 IoT는 네트워크 기반
+       Focus on Openness and         Computing            Focus on Analysis and       ICT 시스템 구현
+            Interoperability                                    Semantic            ▪ CPS와 빅데이터는 Model 기반
+                                                                                      의 컴퓨팅 구현
+                         IoT                         Big Data                       ▪ IoT와 빅데이터는 Sensor 기반
+                                                                                      의 컴퓨팅 구현
+
+Source:      한국전자통신연구원 CPS 연구실
+
+
+                                                                                                            5
+CPS의 등장 배경 및 활용분야
+
+CPS는 2000년대 이후, 물리시스템과 사이버시스템이 융합되어 운용되어야 할 필
+요성이 대두되면서 등장하였으며, 제조/에너지/교통/의료 등 다양한 산업에 활용
+될 수 있음               CPS 등장 배경                                                          CPS 활용분야
+
+
+
+
+ 독립적으로 발전해온 물리시스템과 사이버시스템 융합의 필요                                          기존 산업과 광범위하게 결합 가능
+ 성 대두                                                                     ▪ 제조업과 결합하여 스마트 팩토리 구현
+ ▪ 1700년대, 산업혁명이 물리시스템의 발전 촉발                                             ▪ 에너지 산업과 결합하여 스마트 그리드 구현   스마트시티
+ ▪ 1950년 이후, 사이버시스템 등장 및 다양한 분야에 활용
+                                                                          ▪ 교통 분야와 결합하여 스마트 모빌리티 구현
+ ▪ 1990년대, 인터넷 혁명 이후, 사이버시스템의 전성시대 도래
+                                                                          ▪ 의료 산업과 결합하여 스마트 헬스케어 구현
+ ▪ 2000년대 이후, 사이버시스템이 제조업 등 전통적 산업에 활용되기
+    시작하면서 물리시스템과 사이버시스템의 동시 운용 필요성 대두
+Source:   Germany Trade & Invest 2013, 정보와 통신(2016년 11월호), Press Search
+ ▪ 기존 학문으로는 물리시스템과 사이버시스템의 융합이 어려워 CPS
+    등장                                                                                                        6
+Agenda
+I.    CPS의 개념
+      -   정의
+      -   CPS, IoT, 빅데이터와의 관계
+      -   등장배경 및 활용분야
+
+
+II.   스마트시티 by CPS
+      -   CPS Reference Model Framework
+      -   도메인별 CPS based Smart Solution Concept
+
+
+II.   스마트시티 Mega Trend 도출
+   input     Process     Output
+
+
+                        변수별 대처
+                       주장에 대한 근거
+인프라(기초 DB)
+                          활용
+                         자동화
+
+
+
+
+                                   8
+Smart City CPS Framework
+
+CPS Framework 3D 도식화
+                                                                                            Simulation-based Decision
+                                                                                      4              Making
+
+
+
+                                                                                                     KPI
+                                                                                                           D
+                                                                                                  Simulation
+                                                                                                     C
+                                                                                                 A Detection & B
+                                                                                   Big Data/AI     Coordinator  E
+                                         Operational
+                                                             3 Data Mgmt
+                                                                                                     (Real-time
+                                2         Structure                                Analysis            monitoring
+                                                                                                      & Prediction)
+
+                                         Sensor
+
+
+                                                                    Collect Data
+
+
+    1   Physical
+        Structure
+                                        Actuator
+                                                        5 Control
+
+        Machines &
+        Components
+        Physical Layer
+
+                                                            Operating System
+
+                                                                     Operational
+                                                           2          Structure
+Note:      Physical Layer: ①, Cyber Layer: ②, ③, ④, ⑤
+
+
+                                                                                                                        9
+Smart City CPS Framework
+
+CPS Architecture 관점의 Smart City Framework은 아래와 같음
+CPS Architecture for Smart City
+
+      Physical           Operational              Data
+                                                                                         Simulation-based Decision Making
+      Structure           Structure               Mgmt
+                                                            5                                                                         Normal Process
+                                                         Control                                                                      Abnormal Process
+                                            3                      4
+                                                                           Big Data/AI                Detection and
+                                                                                                                                      KPI Simulation
+                                                                             Analysis                 Coordination
+                                        1 Collect                                                                          16 5
+                                                                            Big Data                    Coordinator                    Cyber Model
+                   1 2                  10 Data                             Storage
+                                                                                         11 15
+                                                                                                                                         Builder
+                                                                                                        14       9         17               6
+                                                                              Big  AI
+                                                                       2    Prediction
+                                                                             Data
+                                                                             Model               13      Detector                    Simulation Engine
+                      Actuator
+                                                                             Model
+                                                                                                                12                          7
+                                                                       3 Repository                                              8
+                                                                                                      Real-time Data                  Reference KPIs
+                                                                                                          Listner           4             Builder
+                               Sensor
+                     Operati                                                                                        4 18    18         Planning and
+      Machines &
+                       ng                                                                                                               Scheduling
+      Component      System
+          s                  Process
+                             Data &
+  1 Process/Sensor 데이터 수집  Sensor Data7 Simulation 결과를 Reference KPIs Builder에                        13 예측 모델 및 Reference KPIs 기반 실시간 예
+                                        전송                                                               측
+  2 빅데이터 및 AI 분석 기반 예측 모델 생성          8 Reference KPIs 도출 및 Coordinator에 전송                           14 Irregularities 감지 시 관련 정보 Coordinator
+                                                                                                         에 전달
+  3 예측 모델 및 운영자 경험 기반 Response                  9 실시간 모니터링 위해 Reference KPIs를                         15 Irregularities 상황에 대한 Response Plan 요
+    Plan 저장                                        Detector에 load                                        청
+  4 운영 Schedule 생성, Coordinator/Operating                                                             16 Irregularities 및 Current Situation 전달 및
+    System에 전송                                  10 실시간 Process/Sensor 데이터 수집                             Future KPIs 요청 6 7 8 반복
+  5 Reference KPIs(미래 모니터링 기준) 요청
+                                                11 데이터를 실시간으로 Real-time Data                          17 Future Reference KPIs에 따른 新 Schedule
+  6 Schedule & Current Situation 기반 KPI            Listener에 전송                                          요청
+    Simulation을 위한 Cyber Model 생성               12 실시간 모니터링 위해 데이터를 Detector에                         18 新 Schedule Coordinator/Operating System
+                                                  load                                                   에 전송
+                                                                                                                                                         10
+도메인별 CPS based Smart Solution 10 Concept 종합
+
+도메인별 Smart Solution 10 Concept을 종합 분석한 결과는 아래와 같음
+
+    주체 및 Solution           세부 내용
+    명                       ▪ 냉난방공조(HVAC1)), 룸 자동화, 빌딩관리시스템(BMS) , 체온감지, 출입통제시스템 기반 쾌적한 업
+       Smart Building         무 환경 조성
+         Solution           ▪ 건물 에너지 소비 모니터링, 원격 제어 기반 에너지 소비 효율화를 통해 비용/탄소배출량 절감
+                            ▪ 빌딩 운영 자동화로 건물 출입 보안 강화 및 빌딩 내부 기후환경 자동 제어로 설비 운영 비용 절
+                              감
+빌      Smart Building       ▪ 스마트 보드와 회의실 사용에 있어 직원간 마찰 최소화로 근무 몰입도 향상
+딩    Intelligent Building   ▪ 데이터 수집 및 빌딩 통합관리 소프트웨어 시스템 기반 빌딩 내부 개선 사항 모니터링 및 통합 관
+        Management            리
+          Reference         ▪ 최적화된 개선 솔루션 제공으로 직원들의 업무 환경 개선 및 빌딩 운영 비용 절감                          “도메인별 추진
+     Architecture Model     ▪ 에너지 사용량 실시간 시각화 기반 전력장비에 대한 정밀한 Control을 통해 에너지 소비/탄소 배
+                              출량 감소                                                                   되고 있는
+    Smart Building BEMS
+           Model            ▪   건물 자동화 시스템 기반 에어컨, 조명 등의 장비 자동 제어 및 안정적인 에너지 공급체계 구축                    Digital
+                            ▪   IoT 기반 전력 모니터링을 통해 전반적인 Energy System의 실시간 효율화 실현                   Transformatio
+     IoT Architecture for   ▪   전력 수급 효율성 제고 기반 운영관리 Cost Benefit 실현
+         Smart Grids
+                                Energy Cloud 네트워크 서비스 기반 신재생 에너지 공급 안정화를 통해 온실가스 배출량 최소화
+                                                                                                     n Concept을
+에                           ▪
+너                           ▪   데이터 수집·분석 및 최적화된 에너지 저장 시스템 구축 등 글로벌 기준에 맞는 안정적 에너지 공               종합해보면, 모
+    Smart Energy Cloud
+지                               급체계 구축                                                              두 CPS를 기반
+                            ▪ 데이터 분석 및 솔루션 설계 기반의 ‘Energy Savings as a Service’를 통해 다양한 산업 분야에 초기
+     Big Data Solutions       자본 투자를 최소화한 맞춤형 에너지 효율화 방안 제공, 탄소 배출 감소에 기여                           으로 하고 있음
+     for Energy Saving      ▪ 실시간 교통 흐름 분석 기반 교통신호 제어를 통해 교통 정체 해소, 에너지 낭비/온실가스 배출 최                      ”
+                              소화
+모   Intelligent Transport   ▪   교통수단 간 정보 공유 지원 및 주변 차량 움직임 감지·예측을 통한 차량 충돌 및 비용 발생 최소
+빌          Systems              화
+리                           ▪   다양한 도로 인프라 현황 실시간 모니터링 및 제어 기반 원활한 교통 환경 조성
+티   Transportation Cyber-   ▪   도로상황 감지·예측 및 주변 인프라/차량과의 정보 공유 기반 차량 제어 스마트화
+       Physical System
+                            ▪   실시간 누수/수질이상 탐지 및 도시 內 물 소비량 모니터링 기반 물자원 절약, 물오염 감소 촉진
+환
+                            ▪   관로 내 정보 수집 기반 하수관망 파손 감지 및 배수 컨트롤 시스템 기반 배수펌프 송출 압력 유
+경      Water System             지
+
+                                                                                                                11
+도메인별 CPS-based Smart Solution Concept
+
+Siemens Smart Building
+
+
+                              도메인           Building & Infra                                   팬데믹 상황 및 기후변화 대응 필요성 증대
+                             적용영역           High Performance Building/Infra                    ▪ COVID-19 팬데믹 등으로 인한 빌딩 內 환경 개선
+
+
+
+
+                                                                              Issue
+                                                                                                 , 이상상황 감지 및 대응체계 구축 필요성 증대
+                                                                                               ▪ 이산화탄소 배출량 증대로 인한 기후변화 문제
+                                                                                                 존재
+
+                          1
+                                                                                                                   5
+                                                                                                         HVAC/Occupancy/Energy
+                                                                                                            Performance Control Simulation-
+
+
+
+
+                                                                              CPS Framework
+                                                                                                        Operatio            4based Decision
+                                                                                              Building              3             Making
+                                                                                                           nal                  100110010
+                   2          1                                                               Structure            Data         001010110
+                                                                                                     1 Structure
+                                                                                                         2         Mgmt       100000100
+                                                                                                                                 110
+                 2
+                         2
+
+          5                                              3
+                                                             4                                 업무 환경 개선, 빌딩 운영 비용 및 탄소 배출
+                                                                                               감소
+
+
+
+                                                                              Outcome
+                                                                                               ▪ 냉난방공조(HVAC1)), 빌딩관리시스템(BMS) , 체온
+                                                                                                 감지, 출입통제시스템 기반 쾌적한 업무 환경 조
+                                                                                                 성
+                         Smart Building Solution
+                                                                                               ▪ 데이터 수집·분석 기반 건물 에너지 소비 모니터
+                                                                                                 링 및 원격 제어 기반 에너지 소비 효율화를 통해
+Note:     1) Heating, Ventilation and Air Conditioning
+                                                                                                 비용 절감, 탄소 배출량 감소
+Source:   Siemens, Press Search
+
+
+                                                                                                                                          12
+도메인별 CPS-based Smart Solution Concept
+
+Deloitte Smart Building
+
+
+                           도메인       Building & Infra                           Digital Transformation 환경 대응 필요성 증대
+                         적용영역        High Performance Building/Infra            ▪ 사업 전반의 Digital Transformation 트렌드에 대
+                                                                       Issue
+                                                                                  응하기 위한 근무환경의 디지털화 필요성 증대
+                                                                                ▪ 노동 효율성과 생산성 증대를 위해 직원 몰입, 설
+      1                                                                           비 운영 비용 절감, 보안 및 에너지 효율성 개선
+                                                                                  필요
+                                                                                                      5
+                                                                                              Intelligent Building
+      2                                                                                              Control       Simulation-
+                                                                                         Operatio                4based Decision
+                                                                       CPS     Building                 3             Making
+                                                                                            nal       Data
+                                                                                                                    100110010
+                                                                       F/W     Structure                            001010110
+                                                                                      1 Structure
+                                                                                          2           Mgmt        100000100
+                               4                                                                                     110
+                       3
+
+
+                                                                                빌딩 운영 자동화 및 업무 환경 개선
+                                                                                ▪ 빌딩 운영 자동화로 건물 출입 보안 강화 및 빌딩
+                                                                       Outc       내부 기후환경 자동 제어로 설비 운영 비용 절감
+                                                                       ome
+                                                                                ▪ 스마트 보드와 회의실 사용에 있어 직원간 마찰
+                                                                                  최소화로 근무 몰입도 향상
+                     Smart Building Framework
+
+
+Source:   Deloitte
+
+
+                                                                                                                              13
+도메인별 CPS-based Smart Solution Concept
+
+IBM Intelligent Building Management Reference Architecture Model
+
+
+                          도메인         Building & Infra                           빌딩 에너지 사용 효율화 및 환경 개선 필요성
+                         적용영역         High Performance Building/Infra            대두
+                                                                        Issue
+                                                                                 ▪ 빌딩 내 에너지 사용 효율화 필요성 증대
+                                                                                 ▪ 빌딩 내 관리 기능 통합 및 운영 자동화를 통한
+                                                                                   업무 환경 개선 필요
+
+
+                                                                                                     5
+                                                                                                 Environmental
+                                                                                            Optimization & ControlSimulation-
+                                                         4                                Operatio             4based Decision
+                                                                        CPS     Building               3            Making
+                                                                                             nal      Data
+                                                                                                                  100110010
+                                                                        F/W     Structure                         001010110
+                                                                                       1 Structure
+                                                                                           2         Mgmt        100000100
+                                                         3                                                          110
+
+
+
+
+                                                         1
+                                                                                 빌딩 내부 운영관리 최적화 시스템 구축
+                                                                                 ▪ 데이터 수집 및 빌딩 통합관리 소프트웨어 시스
+                                                                        Outc       템 기반 빌딩 내부 개선 사항 모니터링 및 통합
+                                                                        ome        관리
+                                                                                 ▪ 최적화된 개선 솔루션 제공으로 직원들의 업무
+  IBM Intelligent Building Management Reference Architecture Model
+                                                                                   환경 개선 및 빌딩 운영 비용 절감
+
+Source:     IBM
+
+
+                                                                                                                             14
+도메인별 CPS-based Smart Solution Concept
+
+NEC Smart Building BEMS Model
+
+
+                        도메인       Building & Infra                           빌딩 내 에너지 절약/공급 안정성 확보 필요
+                        적용영역      High Performance Building/Infra            ▪ 빌딩 내 에너지 낭비 및 공급 불안정성 이슈 존재
+                                                                    Issue
+                                                                             ▪ 기후변화에 대응하기 위해 CO2(탄소) 배출량 절
+                                                                               감 필요성 대두
+                                                1
+                                                                                                 5
+                                                                                         Energy Saving Control
+                                                                                                              Simulation-
+                                                                                      Operatio            4based Decision
+                                                     5              CPS     Building               3
+                    2                 1                             F/W     Structure
+                                                                                         nal     Data            Making
+                                                                                                               100110010
+                                                                                                               001010110
+                                                                                   1 Structure
+                                                                                       2        Mgmt        100000100
+                                                                                                               110
+
+                                                             5
+
+                                                                             에너지 소비량 감소 및 안정적 공급체계 구축
+                                                                             ▪ 에너지 사용량 실시간 시각화 기반 전력장비에
+                                                                    Outc       대한 정밀한 Control을 통해 에너지 소비/탄소 배
+                                                     3 4            ome        출량 감소
+                                                                             ▪ 건물 자동화 시스템 기반 에어컨, 조명 등의 장비
+                NEC Smart Building BEMS Model
+                                                                               자동 제어 및 안정적인 에너지 공급체계 구축
+
+Source:   NEC
+
+
+                                                                                                                        15
+도메인별 CPS-based Smart Solution Concept
+
+IEC IoT Architecture for Smart Grids
+
+
+                            도메인             Energy                                 에너지 산업 내부 예측 불가능성, 불안정성 제
+                           적용영역             Smart Meter & Management,              고
+                                            Renewable Sources of Energy   Issue
+                                                                                   ▪ 전력장비·장치, 에너지의 유형·형태가 다양화 됨
+                                                                                     에 따라 에너지 산업의 예측 불가능성 및 불안정
+                                                                                     성 제고
+     3                                                           2                 ▪ 에너지 통합관리를 통한 수급 안정성 확보 필요
+                                                                                     성 증대
+                                                                                                        5
+                                                                                              Real-time Energy system
+                                                                                                      Control       Simulation-
+                                                                                          Operatio               4based Decision
+                                                                          CPS     Building               3            Making
+                                                                                             nal      Data
+                                                                                                                    100110010
+                                                                          F/W     Structure                         001010110
+                                                                                        1 Structure
+                                                                                           2          Mgmt          100000100
+                                                                                                                       110
+
+                4
+                                                           5
+                                                                                   에너지 시스템의 실시간 효율화 및 운영비용 감
+                                                                                   소
+                                                                   1      Outc
+                                                                                   ▪ IoT 기반 전력 모니터링을 통해 전반적인 Energy
+                                                                          ome        System의 실시간 효율화 실현
+                    IoT Architecture for Smart Grids                               ▪ 전력 수급 효율성 제고 기반 운영관리 Cost
+                                                                                     Benefit 실현
+
+Source:   IEC(International Electrotechnical Commission)
+
+
+                                                                                                                                  16
+도메인별 CPS-based Smart Solution Concept
+
+NEC Smart Energy Cloud
+
+
+                        도메인        Energy                                 지구온난화 대응 및 신재생 에너지 균형 필요
+                        적용영역       Smart Meter & Management,              ▪ 온실가스 배출량 증가로 인한 지구온난화 문제가
+                                   Renewable Sources of Energy   Issue
+                                                                            대두됨에 따라 효율적인 에너지 공급 필요성 증
+                                                                            대
+                                                                          ▪ 기상조건의 영향을 받는 신재생 에너지의 전력계
+                                                                            통 안정성 유지를 위한 지속적인 조치 필요
+                                                                                              5
+                                                                                      Energy Cloud Network
+                                                                                             Control      Simulation-
+                3                                                                  Operatio            4based Decision
+                                                                 CPS     Building               3           Making
+                    4                                                                 nal     Data
+                                                                                                          100110010
+                                                                 F/W     Structure                        001010110
+                                                                                1 Structure
+                                                                                    2        Mgmt        100000100
+                                                                                                            110
+
+
+
+
+                                                                          온실가스 배출량 최소화, 안정적 전력 공급 실
+                                                                          현
+                                                   2             Outc
+                                                                          ▪ Energy Cloud 네트워크 서비스 기반 신재생 에너
+                                                                 ome
+                                             1 5                            지 공급 안정화를 통해 온실가스 배출량 최소화
+                        Smart Energy Cloud                                ▪ 에너지 관련 데이터 수집, 실시간 분석 및 최적화
+                                                                            된 에너지 저장 시스템 구축으로 글로벌 기준에
+                                                                            맞는 안정적 공급체계 구축
+Source:   NEC
+
+
+                                                                                                                     17
+도메인별 CPS-based Smart Solution Concept
+
+Hitachi Big Data Solutions for Energy Saving
+
+
+                                 도메인             Energy                                      사회·경제적으로 저비용 에너지 효율화 요구 증
+                               적용영역              Smart Meter & Management                    대
+
+
+
+
+                                                                            Issue
+                                                                                             ▪ 전 세계적으로 온실가스 감축 목표가 강화됨에
+                                                                                               따라 산업 분야 에너지 사용 효율화 필요성 증대
+                                                                                             ▪ 온실가스 감축 노력으로 인한 기업의 비용부담
+                                                                                               가중
+                                                                      5
+                                                                                                                 5
+                                                                                                        Energy Management
+                                                                                                              Control
+
+
+
+
+                                                                            CPS Framework
+          3                                                                                                               Simulation-
+                                                                                                    Operatio           4based Decision
+                                                                                            Building             3           Making
+                                                                                                       nal      Data
+                                                                                                                           100110010
+                                        4                                                   Structure                      001010110
+                                                                                                  1 Structure
+                                                                                                     2          Mgmt       100000100
+                                                                                                                              110
+
+
+
+
+                                                                                             산업 분야의 에너지 효율화 솔루션 도입 촉진
+
+
+
+
+                                                                            Outcome
+                                                                                             ▪ 데이터 분석 및 솔루션 설계 기반의 ‘Energy
+                                                                                               Savings as a Service’를 통해 다양한 산업 분야에
+                                                                                               초기 자본 투자를 최소화한 맞춤형 에너지 효율
+                                                                                               화 방안 제공, 탄소 배출 감소에 기여
+                     Big Data Solutions for Energy Saving
+
+
+Source:       Smart Social Innovation in Action(Frost & Sullivan)
+
+
+                                                                                                                                        18
+도메인별 CPS-based Smart Solution Concept
+
+ETSI Intelligent Transport Systems
+
+
+                                   도메인               Mobility                                          교통 정체 심화, 차량 출동 사고 빈번
+                                 적용영역                Intelligent Traffic Management                    ▪ 도시 교통량 증가에 따른 교통 정체 심화, 온실
+
+
+
+
+                                                                                      Issue
+                                                                                                         가스 배출 증대
+                                                                                                       ▪ 차량 충돌로 인한 사고 발생으로 경제적 비용 발
+                                                                                                         생
+
+
+                                                                                                                             5
+                                                                                                                  Intelligent Traffic Control
+
+
+
+
+                                                                                      CPS Framework
+                                                                                                                                           Simulation-
+                                                                                                                Operatio                4based Decision
+                                                 1                                                    Building                 3              Making
+                                                             5                                                     nal       Data
+                                                                                                                                           100110010
+                                                                         4                            Structure
+                                                                 2 3
+                      3                                                                                                                    001010110
+                                                 2 3                                                         1 Structure
+                                                                                                                 2          Mgmt         100000100
+                    1 2 1                                                                                                                   110
+                                             1
+          3           5            1
+              2                         2 3                  5
+      5                                                                  3
+                                    5                                        4
+              1                                  2 3                 2
+                                                                 1       5
+                            1                                                                          정체로 인한 에너지 낭비, 사고로 인한 비용 최
+                                                 1           3           1                             소화
+
+
+
+                                                                                      Outcome
+                                                         2
+                                                                                                       ▪ 실시간 교통 흐름 분석 기반 교통신호 제어를 통
+                                                                                                         해 교통 정체 해소, 에너지 낭비/온실가스 배출
+                                                                                                         최소화
+                            Intelligent Transport Systems
+                                                                                                       ▪ 교통수단 간 정보 공유 지원 및 주변 차량 움직임
+                                                                                                         감지·예측을 통한 차량 충돌 및 비용 발생 최소화
+Source: ETIS(European Telecommunications Standards Institute)
+
+
+                                                                                                                                                     19
+도메인별 CPS-based Smart Solution Concept
+
+Transportation Cyber-Physical System(TCPS)
+
+
+                                도메인             Mobility                                          차량 증가, 도로교통 관리 효율 제고 필요성 증
+                               적용영역             Intelligent Traffic Management                    대
+
+
+
+
+                                                                                 Issue
+                                                                                                  ▪ 승용차 및 물품 운송 차량 증가로 인한 도시 內
+                                                                                                    교통량 증가로 인해 사회적·환경적 Stress 증가
+                                               3                                                  ▪ 도로가 도시면적에서 차지하는 비중이 증가함에
+                                                                                                    따라 도로교통 관리 효율화 요구 증대
+
+                                                                                                                       5
+                                                                                                             C-ITS/Intelligent Traffic
+                                                       4                                                             Control
+
+
+
+
+                                                                                 CPS Framework
+                                                                                                                                      Simulation-
+          1                                                                                              Operatio                4based Decision
+                                                                                                 Building               3             Making
+                                                                                                            nal      Data
+                                                                                                                                    100110010
+                                                                                                 Structure                          001010110
+                                 2                                                                     1 Structure
+                                                                                                          2          Mgmt           100000100
+                                                                                                                                       110
+
+
+
+
+                                                                                                  도로 교통 환경 개선, Driver의 운전 환경 스마
+                                                                                                  트화
+
+
+
+                                                                                 Outcome
+                                                                                                  ▪ 다양한 도로 인프라 현황 실시간 모니터링 및 제
+                                                              5                                     어 기반 원활한 교통 환경 조성
+                                                                                                  ▪ 도로상황 감지·예측 및 주변 인프라/차량과의 정
+                Transportation Cyber-Physical System(TCPS)
+                                                                                                    보 공유 기반 차량 제어 스마트화
+
+Source:       Transportation Cyber-Physical System(Lipika·Mashrur, 2018)
+
+
+                                                                                                                                                    20
+도메인별 CPS-based Smart Solution Concept
+
+HITACHI Water System
+
+
+                        도메인       Environment                                  물자원 낭비/오염, 수도 인프라 불안정성 이슈
+                                  Intelligent Environmental                    존재
+                        적용영역
+
+
+
+
+                                                              Issue
+                                  Management
+                                                                               ▪ 물자원 낭비/오염 등 문제가 발생함에 따라 효율
+                                                                                 적인 물운용 계획 수립 필요
+                                                                               ▪ 지진으로 인한 하수도관망 파괴 등 수도 인프라
+                                                      4                          안정성 이슈 존재
+                    4
+                                                                                                    5
+                                                                                          Intelligent Water System
+                                                                                                    Control
+
+
+
+
+                                                              CPS Framework
+                                                                                                                 Simulation-
+                                                                                      Operatio               4based Decision
+      5                       3             3                                 Building
+                                                                                         nal
+                                                                                                     3            Making
+                                                                                                                100110010
+                                                                              Structure           Data          001010110
+                                                                                    1 Structure
+                                                                                       2          Mgmt          100000100
+                                        2                                                                          110
+
+
+
+
+                                  1                                            물자원 절약, 물오염 감소, 배수관망 유지관리
+                                                                               최적화
+
+
+
+                                                              Outcome
+                                                                               ▪ 실시간 누수/수질이상 탐지 및 도시 內 물 소비량
+                                                                                 모니터링 기반 물자원 절약, 물오염 감소 촉진
+                                                                               ▪ 관로 내 정보 수집 기반 하수관망 파손 감지 및
+                         Water System
+                                                                                 배수 컨트롤 시스템 기반 배수펌프 송출 압력 유
+                                                                                 지
+Source:   HITACHI
+
+
+                                                                                                                               21
+Agenda
+I.    CPS의 개념
+      -   정의
+      -   CPS, IoT, 빅데이터와의 관계
+      -   등장배경 및 활용분야
+
+
+II.   스마트시티 by CPS
+      -   CPS Reference Model Framework
+      -   도메인별 CPS based Smart Solution Concept
+
+
+II.   스마트시티 Mega Trend 도출
+도메인별 적용기술 및 Mega Trend 도출
+
+스마트시티 System을 기반으로 도메인별 적용기술 및 Mega Trend를 도출 하였
+음
+         System 사례 Pool                                                                                                                  n = Core System n = Related System
+ 1 중국 항저우 Traffic Control System
+ 2 영국 밀턴킨즈 실시간 교통 정보 System
+ 3 스페인 산탄데르 Smart Parking System
+ 4 영국 밀턴킨즈 데이터 기반 물 절약 시스템
+ 5 덴마크 코펜하겐 Smart 쓰레기 수거 시스템
+                                                                                            2       2                        1
+                                                                            3   1       2
+ 6 미국 캘리포니아 데이터기반 지진 경보 시스템               Future of                                         0
+                                                                                                2
+                                                                                                    1
+                                                                                    9                   3       9            2                                         2
+ 7 UAE 두바이 AI 로봇 기반 치안 서비스                Mobility                                              4                            2
+      필란드 헬싱키 IoT 데이터 기반 Foodwaste 절감                                                                                        0
+ 8 System                                               1       1
+      네덜란드 노트르담 IoT 데이터 기반 화물 배송          Future of     1       3                                       1       1       A                                              1
+ 9 효율화 시스템                                                  1
+                                           Energy           5                                           1       5                                                      5
+ 10 오스트리아 비엔나 스마트 빌딩 System                                                                                                 System사례 기반 도메인별
+ 11 오스트리아 비엔나 Smart Grid System
+                                                                    1   1
+                                                                                                                                 적용기술 도출
+                                         Innovation                                                                                                                    1
+ 12 스페인 바르셀로나 Smart Lighting System                                 1   5                                                                                              1
+      영국 브리스톨 EDMS 기반 에너지 모니터링 시
+                                           to Zero
+ 13 스템
+      영국 멘체스터 BEMS/VPP 기반 에너지 효율화                       1   1                                                       1   1
+ 14 시스템                                    Future       0 1 4                                               1       0   2
+                                                                    1   1                                           1   1
+      네덜란드 암스트레담 에너지 Hub 기반 에너지          Building &       6         0   6                                   2
+ 15 효율화 시스템                                                                                                         4   6
+                                            Infra
+ 16 싱가포르 디지털 트윈 기반 도시 계획 System
+                                                            B                                           4       5                                                  4       8
+ 17 미국 시카고 AoT 기반 환경 모니터링 시스템            Smart is the                                                           1                                                      1
+ 18 미국 시카고 AI 기반 범죄 예측 System            New Green          System사례 기반 Mega                            8
+                                                                                                                7                                                      7
+
+ 19 영국 런던 AR 기반 녹지 정보 제공 System
+                                                                 Trend 도출
+                                           Future                                                                            7
+                                                                                                                                 6                                         1
+ 20 미국 콜럼버스 Connected Network System       Public                                                                            1                                     6
+                                                                                                                                                                           8
+ 21 스웨덴 스톡홀름 Autonomous Vehicle System     Safety                                                                            8
+    이탈리아 데이터 기반 독거노인 모니터링·지원
+ 22
+    System
+                                          Health,                                                                                    2        2
+ 23 중국 닝보 원격의료 System                    Wellness,                                                                                   3        2
+                                         Well-being
+ 24 핀란드 헬싱키 MaaS App System
+ 25 네덜란드 암스테르담 리빙랩 기반 플랫폼
+                                         Urbanizatio                                                                                                 2       2     1       2
+                                           n as a                                                                                                    5       6     9       5
+ 26 싱가포르 AI 기반 맞춤형 교육 시스템
+                                          Customer
+
+                                                                                                                                                                           23
+도메인별 적용기술 및 Mega Trend 도출
+
+스마트시티 System을 기반으로 도메인별 적용기술 및 Mega Trend를 도출 하였
+음
+                                                                              Environme Building &
+                         Energy                      Mobility                                                     Government                Healthcare                  People           Living
+                                                                                  nt       Infra
+                                                                                                                                        Remote
+                                                                 Integrated
+                   Smart     Renewable             Intelligent                  Intelligent      High      Real-time                    Patient                 Citizen
+                                         Smart                      Multi-                                           Emergency                      Emergency                              Public
+                   Meter&    Sources of              Traffic                  Environmental Performance Incident                       Diagnostic             Engagemen eLearning
+                                        Parking                     modal                                             Dispatch                       Response                           Information
+                   Mgmt        Energy                Mgmt                         Mgmt      Building/Infra Response                        &                        t
+                                                                  Transport
+                                                                                                                                       Monitoring
+                                                  실시간 신호제Maas, AV,
+ Future of                                        어        Connected
+ Mobility                                              교통9정 2
+                                                  , 1및 2        2    2
+                                                                                  3    9                        1 2 0
+                                                                                                                       2
+                                                                                                                                                                                             2
+                                           3                0   1    4
+                                                  보
+               VPP, EDM,
+ Future of     Smart Grid
+  Energy        1   1 1                                                           1    1                                                                                                     1
+                1   3 5                                                           1    5                                                                                                     5
+                             Smart Grid
+Innovation                   (PV, Wind)
+  to Zero                     1 1                                                                                                                                                            1
+                              1 5                                                                                                                                                            1
+  Future                                                                                       Digital Twin,
+                                                                                               BEMS,
+Building &     1     1   1   1    1                                                1            1 1 1 1
+                                                                                               Lighting
+   Infra       0     4   6   0    6                                                2            0 2 4 6
+                                                                               Water, Air,
+Smart is the                                                                   Waste
+New Green                                                                                  1                                                                                                       1
+                                                                               Mgmt
+                                                                               4 5 8                                                                                                     4    8
+                                                                                           7                                                                                                       7
+  Future                                                                                                       Crime      Earthquake
+                                                                                                               Monitoring Monitoring
+  Public                                                                                                              1                                                                       1
+                                                                                                                 7             6                                                         6
+  Safety                                                                                                              8                                                                       8
+ Health,                                                                                                                               Tele         Wearable
+                                                                                                                                       Medicine     Device
+Wellness,                                                                                                                                   2             2
+Well-being                                                                                                                                  3             2
+                                                                                                                                                               Living Lab   AI based    VR Info.
+Urbanizatio
+                                                                                                                                                                            Education   System
+  n as a                                                                                                                                                            2            2       1    2
+ Customer                                                                                                                                                           5            6       9    5
+
+
+
+
+                                                                                                                                                                                                   24
+Mega Trend 및 도메인별 적용기술의 정의
+
+도출된 8대 Mega Trend 및 도메인별 적용기술의 정의는 하기와 같음
+
+
+             Mega Trend의 정의                                                      도메인별 적용기술의 정의
+
+                                                                     Energy                                  Government
+ Future of   ▪ Traffic Control System, MaaS,
+ Mobility      AV1) 등 차세대 기술을 활용한               Smart Meter &           ▪ 스마트 미터기를 활용한 Real-time Incident          ▪ AI 분석 및 데이터를
+               Mobility 활성화                      Management               전력/에너지 관리        Response                  활용한 실시간 사고 대
+                                                                                                                     응
+ Future of   ▪ VPP 등 에너지 Management            Renewable Sources                                 Emergency         ▪ 재해재난 등 피해 최
+  Energy                                                                ▪ 태양광, 풍력 등을 활용
+               기술을 활용한 에너지 효율화                     of Energy                                      Dispatch           소화를 위한 긴급구난
+                                                                          한 에너지 생산
+Innovation   ▪ 탄소중립 실현을 위한 풍력, 태                                     Mobility                                   Healthcare
+  to Zero      양광, 연료전지 등 신재생에너                                                                Remote Patient
+                                                                        ▪ IoT를 활용한 주차 공간                           ▪ 클라우드 등 기술 기반
+               지 활용                              Smart Parking                                  Diagnostic &
+   Future                                                                 효율화                    Monitoring
+                                                                                                                     비대면 환자 및 질병
+ Building &
+             ▪ 빌딩 및 시설물에 센서 (IoT) 등                                                                                  관리
+    Infra      차세대 기술 기반 관리 및 최적               Intelligent Traffic      ▪ 실사간 신호제어 등을            Emergency         ▪ 센서 기반 독거노인 및
+               화                                 Management               활용한 이동 효율화              Response           시민 실시간 건강 관리
+Smart is the ▪ 센서 (IoT) 등 차세대 기술 기반
+New Green      환경 관리 제고                        Integrated Multi-        ▪ AV, 대중교통 등 여러 교                        People
+                                               Modal Transport            통수단 연계 이동               Citizen          ▪ 리빙랩 등 시민중심의
+  Future
+  Public
+            ▪ AI 기반 CCTV, IoT 기반 기술                                                             Engagement           시스템
+              등을 활용한 치안 및 재해재난                                   Enviornment
+  Safety                                           Integrated
+              방지                                                        ▪ 센서기반 Waste, Air 및                        ▪ AI 등 차세대 기술을
+                                                 Environmental                                   eLearning
+  Health,
+            ▪ 클라우드, AI 등을 활용한 의료                                          Water Quality 관리                           활용한 교육 시스템
+ Wellness,                                        Management
+Well-being    서비스 및 노인들의 건강관리
+                                                              Building & Infra                                    Living
+              제고
+Urbanizatio                                    High Performance
+  n as a
+            ▪ 교육 시스템, 리빙랩 등을 활용                                         ▪ BEMS, 센서를 활용한 빌 Public Information       ▪ 시민의 삶 제고를 위한
+              한 도시화로 인해 발생되는 문                   Building/Infra           딩/시설물 운영 최적화                               데이터 및 정보 제공
+ Customer
+              제 대응
+
+
+
+                                                                                                                                25
+      스마트시티 도메인별 적용 기술 도출
+A 도메인과 직접적으로 연관 있는 Core System과 간접적으로 연관되어 있는
+      Related System을 기반으로 총 14개의 도메인별 적용 기술을 도출함
+                   Core System                               Related System               도메인별 적용 기술
+1                                            1
+1
+    오스트리아 비엔나 Smart Grid System              0
+                                                 오스트리아 비엔나 스마트 빌딩 System
+1                                            1
+    영국 브리스톨 EDMS 기반 에너지 모니터링 시스템                 영국 멘체스터 BEMS/VPP 기반 에너지 효율화 시스템       Smart Meter & Management
+3                                            4
+1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스         1
+                                             6
+                                                 싱가포르 디지털 트윈 기반 도시 계획 System
+5   템
+1                                            1
+    오스트리아 비엔나 Smart Grid System              0   오스트리아 비엔나 스마트 빌딩 System
+1
+1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스         1                                        Renewable Sources of Energy
+                                             6   싱가포르 디지털 트윈 기반 도시 계획 System
+5   템
+3   스페인 산탄데르 Smart Parking System                                                             Smart Parking
+1   중국 항저우 Traffic Control System
+
+2   영국 밀턴킨즈 실시간 교통 정보 System                                                          Intelligent Traffic Management
+  네덜란드 노트르담 IoT 데이터 기반 화물 배송 효율화 시스
+9
+  템
+2
+    미국 콜럼버스 Connected Network System
+0
+2
+1
+    스웨덴 스톡홀름 Autonomous Vehicle System                                               Integrated Multi-Modal Transport
+2
+    핀란드 헬싱키 MaaS App System
+4
+4   영국 밀턴킨즈 데이터 기반 물 절약 시스템                  3   스페인 산탄데르 Smart Parking System
+                                                 네덜란드 노트르담 IoT 데이터 기반 화물 배송 효율화 시스
+5   덴마크 코펜하겐 Smart 쓰레기 수거 시스템                9
+                                                 템
+8   필란드 헬싱키 IoT 데이터 기반 Foodwaste 절감 System
+                                             1
+                                                 오스트리아 비엔나 Smart Grid System
+                                                                                        Integrated Environmental
+                                             1                                                Management
+1                                            1
+7
+    미국 시카고 AoT 기반 환경 모니터링 시스템                2
+                                                 스페인 바르셀로나 Smart Lighting System
+                                             1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스
+                                             5   템
+
+
+
+
+                                                                                                                        26
+      스마트시티 도메인별 적용 기술 도출
+A 도메인과 직접적으로 연관 있는 Core System과 간접적으로 연관되어 있는
+      Related System을 기반으로 총 14개의 도메인별 적용 기술을 도출함
+                 Core System                           Related System                    도메인별 적용 기술
+1
+0
+    오스트리아 비엔나 스마트 빌딩 System
+1
+2
+    스페인 바르셀로나 Smart Lighting System
+                                                                                   High Performance Building & Infra
+1
+    영국 멘체스터 BEMS/VPP 기반 에너지 효율화 시스템
+4
+1
+    싱가포르 디지털 트윈 기반 도시 계획 System
+6
+7   UAE 두바이 AI 로봇 기반 치안 서비스           1   중국 항저우 Traffic Control System
+1
+8
+    UAE 두바이 AI 로봇 기반 치안 서비스           2   영국 밀턴킨즈 실시간 교통 정보 System                    Real-time Incident Response
+                                      2
+                                      0
+                                          미국 콜럼버스 Connected Network System
+
+6   미국 캘리포니아 데이터기반 지진 경보 시스템                                                            Emergency Dispatch
+2                                                                                    Remote Patient Diagnostic &
+    중국 닝보 원격의료 System
+3                                                                                           Monitoring
+2
+2
+    이탈리아 데이터 기반 독거노인 모니터링·지원 System                                                     Emergency Response
+2
+5
+    리빙랩                                                                                   Citizen Engagement
+2
+6
+    싱가포르 AI 기반 맞춤형 교육 시스템                                                                     eLearning
+1
+9   영국 런던 AR 기반 녹지 정보 제공 System       2   영국 밀턴킨즈 실시간 교통 정보 System
+                                      4   영국 밀턴킨즈 데이터 기반 물 절약 시스템
+                                      6   미국 캘리포니아 데이터기반 지진 경보 시스템
+                                      8   필란드 헬싱키 IoT 데이터 기반 Foodwaste 절감 System
+                                      1
+                                      1
+                                          오스트리아 비엔나 Smart Grid System                     Public Information
+                                      1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스
+                                      5   템
+                                      1
+                                      7
+                                          미국 시카고 AoT 기반 환경 모니터링 시스템
+                                      1
+                                      8   미국 시카고 AI 기반 범죄 예측 System
+                                      2
+                                      5   네덜란드 암스테르담 리빙랩 기반 플랫폼
+                                                                                                                       27
+      스마트시티 도메인별 적용 기술 도출
+B Core System을 기반으로 8대 Mega Trend를 도출하였으며, 각 Mega Trend
+                                                    연계됨
+      는 Core System과 연관되어 있는 Domain (Core/Related)과=Core Domain                                =Related Domain
+
+
+                   Core System               Mega Trend                          Domain
+
+1   중국 항저우 Traffic Control System
+
+2   영국 밀턴킨즈 실시간 교통 정보 System
+                                                                   Mobility     Environment   Building & Infra
+3   스페인 산탄데르 Smart Parking System
+                                                                    Energy      Government        Living
+    네덜란드 노트르담 IoT 데이터 기반 화물 배송 효율화 시스
+9                                          Future of Mobility
+    템
+2                                                                  Healthcare     People
+    미국 콜럼버스 Connected Network System
+0
+2
+    스웨덴 스톡홀름 Autonomous Vehicle System
+1
+2
+    핀란드 헬싱키 MaaS App System
+4
+1
+    오스트리아 비엔나 Smart Grid System                                     Mobility    Environment   Building & Infra
+1
+1
+    영국 브리스톨 EDMS 기반 에너지 모니터링 시스템            Future of Energy        Energy      Government        Living
+3
+1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스
+5   템                                                              Healthcare     People
+
+1                                                                   Mobility    Environment   Building & Infra
+    오스트리아 비엔나 Smart Grid System
+1
+1   네덜란드 암스트레담 에너지 Hub 기반 에너지 효율화 시스       Innovation to Zero       Energy      Government        Living
+5   템
+                                                                   Healthcare     People
+
+1
+0
+    오스트리아 비엔나 스마트 빌딩 System                                                                     Building &
+                                                                    Mobility    Environment
+1                                                                                                  Infra
+    스페인 바르셀로나 Smart Lighting System                                                               Living
+2
+                                         Future Building & Infra    Energy      Government
+1
+4   영국 멘체스터 BEMS/VPP 기반 에너지 효율화 시스템
+                                                                   Healthcare     People
+1
+6
+    싱가포르 디지털 트윈 기반 도시 계획 System
+
+
+
+
+                                                                                                             28
+      스마트시티 도메인별 적용 기술 도출
+B Core System을 기반으로 8대 Mega Trend를 도출하였으며, 각 Mega Trend
+                                                    연계됨
+      는 Core System과 연관되어 있는 Domain (Core/Related)과=Core Domain                                          =Related Domain
+
+
+                Core System                         Mega Trend                            Domain
+
+4   영국 밀턴킨즈 데이터 기반 물 절약 시스템
+                                                                             Mobility    Environment   Building & Infra
+5   덴마크 코펜하겐 Smart 쓰레기 수거 시스템
+                                               Smart is the New Green         Energy     Government         Living
+8   필란드 헬싱키 IoT 데이터 기반 Foodwaste 절감 System
+                                                                            Healthcare      People
+1
+    미국 시카고 AoT 기반 환경 모니터링 시스템
+7
+6   미국 캘리포니아 데이터기반 지진 경보 시스템                                                 Mobility    Environment   Building & Infra
+
+7   UAE 두바이 AI 로봇 기반 치안 서비스                      Future Public Safety        Energy      Government        Living
+1
+    미국 시카고 AI 기반 범죄 예측 System                                               Healthcare     People
+8
+2                                                                            Mobility    Environment   Building & Infra
+    이탈리아 데이터 기반 독거노인 모니터링·지원 System
+2
+2
+                                             Health, Wellness, Well-Being    Energy      Government         Living
+    중국 닝보 원격의료 System
+3
+                                                                            Healthcare     People
+1
+    영국 런던 AR 기반 녹지 정보 제공 System                                              Mobility    Environment   Building & Infra
+9
+2
+5
+    네덜란드 암스테르담 리빙랩 기반 플랫폼                    Urbanization as a Customer       Energy     Government         Living
+2
+    싱가포르 AI 기반 맞춤형 교육 시스템                                                   Healthcare      People
+6
+
+
+
+
+                                                                                                                      29
+Thank You
+PEST 관점에서의 스마트시티 외부환경 분석
+
+스마트시티는 주요국의 정책 강화/국내외 스마트시티 시장규모 확대/ 도시문제
+해결 및 기술 경쟁력 열위 극복 필요 등으로 인해 신속히 추진되어야 함
+Political         국내외 관련 정책 수립 가속화                                                                         국내외 스마트시티 및 AI 시장규모 확대                             Economic
+▪ 글로벌 주요국 스마트시티 관련 기본 정책 추진에 이어                                                                            ▪ 스마트시티 시장은 2020년부터 2025년까지 연평균 성장
+  AI, 빅데이터, 5G 등 첨단기술의 적용을 위한 정책 강화
+                                                                                                             률 약 10.7~18.4%로 고속 성장할 전망
+   - [미국] 스마트시티 관련 입법 및 기술 R&D 강화
+   - [유럽] 범유럽 스마트시티 생태계 구축 및 스마트 서비스 개                                                                     ▪ AI·데이터 중심 스마트시티의 핵심기술인 AI 기술의 시장
+     발 지원
+                                                                                                             규모도 글로벌 36%, 국내 18%의 높은 연평균 성장률을
+   - [중국] 민관협력 기반 AI·빅데이터 활용을 통한 도시문제 해결
+     촉진                                                                                                      기록하며 지속적으로 확대될 것으로 전망
+
+▪ 국내는 한국형 뉴딜 정책을 통해 5G, IoT, AI 기술 기반
+  경제활력 제고 추진 및 다양한 스마트 서비스 활성화 촉                                                          P E
+  진
+                                                                                          S T
+▪ 국내에는 건강/환경/문화여가/생활안전/재난재해/에너지                                                                            ▪ 국내 AI 관련 특허 및 논문 등록 수준은 최고 선진국 대비
+  / 주거교통/가족/교육/사회통합 10개 분야에 심각성·시급                                                                           36.8%와 8.4% 수준으로서 기술연구 측면에서 열위
+  성이 높은 40대 주요 사회문제 존재
+                                                                                                           ▪ 국내 AI 관련 기업 수는 최고 선도국의 1.3% 수준, 교육
+   - 해당 사회문제들은 스마트시티 8대 도메인별 속성에 따라 분
+                                                                                                             인프라는 미비한 수준으로 경쟁력 低
+     류되어 도메인별 주요 도시문제로 귀결 가능
+                                                                                                               - AI 연구 및 활용 가속화 필요성 증대
+   - 이와 같은 도시문제에 대한 적절한 대응을 위해 AI·데이터 중
+     심 스마트시티 관련 기술의 중요성 및 수요 증가 예상
+
+Social            도메인별 現 도시문제 해결 필요                                                                        기술 경쟁력 열위 극복 필요                                    Technolog
+                                                                                                                                                                    ical
+
+
+
+            © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+            International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                   31
+  (P) 정책적 필요성 – 글로벌 AI·데이터 정책 강화 현황
+A 글로벌 주요국들은 스마트시티 관련 기본 정책 추진 이후 스마트시티 內 AI,
+  빅데이터, 5G 등 차세대 기술의 적용을 촉진하고 있는 추세임
+                                                                                                                                                         스마트시티 기반 정책   AI·데이터 특화 정책
+
+
+               미국                                                                      유럽                                                                    중국
+                                                               (2011~2020) Horizon 2020 EIP-SCC1)
+ (2015) ‘스마트시티 이니셔티브’                                                                                                                   (2012) 스마트시티 시범도시 관리 표준 수
+                                                               ▪ SCC1: 유럽 주요도시에서 스마트 시티
+                                                                                                                                        립
+ ▪ 교통혼잡 해소, 범죄예방, 재난대응 등 도                                        우선적 추진 후 후발도시에 경험 활용
+    시문제 해결을 위해 추진                                                                                                                       ▪ 스마트시티 구축, 관리, 평가 등의 표준체
+                                                               ▪ SCC2: 국가 지원금의 실효성을 파악하기
+                                                                                                                                           계 정립
+ ▪ 스마트시티 구축을 목표로 25개 이상의                                          위한 ‘Smart City Index’ 개발 및 측정
+    관련 기술 개발 지원                                                ▪ SCC3: 스마트시티 內 디지털 생태계 조                                                (2014-20) 신형 도시화 전략 수립
+                                                                  성                                                                     ▪ 급격한 도시화로 인한 문제해결을 위해
+ (2017) 스마트시티 법안 입법                                               및 스마트시티 확산 촉진                                                            정책적 방안을 신형 도시화 조성으로 설
+ ▪ 스마트시티 관련 기술 및 시스템의 사용                                           ✔ 데이터 표준 구축                                                             정하고, 스마트시티를 신형 도시화 목표
+    을 촉진시키기 위한 법안 입법                                           ▪ SCIS: 웹 기반 스마트시티 사업 관련 정                                                  달성의 핵심 과제로 제시
+ (2019) ‘AI R&D 전략계획’                                             보 플랫폼으로 도시별 스마트시티 사업                                                  (2017~) ‘시티 브레인 프로젝트’
+                                                                  들을 시사점, 성과물별로 데이터베이스
+ ▪ 헬스케어/모빌리티/범죄치안 등 공공 분                                                                                                                ▪ 알리바바 그룹은 항저우의 시정부와 협
+                                                                  화하여
+                                                               (2018)   공유 런던 투게더’
+                                                                      ‘스마트
+    야 AI 활용을 위한 정부의 R&D 투자 강                                                                                                               업하여 도시 빅데이터의 허브화 및 공공
+    화                                                          ▪ 도시의 연결성, 대응력, 협력성 향상을 목                                                   자원의 효율적 사용을 목적으로 1차
+ ▪ AI 응용 서비스 분야를 민간투자 영역으                                        표                                                                         (‘17~’19), 2차(‘20~) 계획 발표
+    로 이양하여 시장 주도의 원동력 생성을                                         ✔ 데이터분석 기반 데이터 공유∙협력                                                  ▪ 시티브레인 2.0은 스마트 교통 시스템의
+    위한 민관합동 프로젝트 등의 간접 지원                                           강화                                                                     고도화, 스마트치안 및 의료 스마트화 집
+    추진                                                            ✔ 5G 기술 접목한 스마트 교통 시스템                                                   중
+
+
+스마트시티 기술의 선제적 확보를 위해 법                                      범유럽 스마트시티 생태계 구축 및                                                    민간 IT 기업과의 협업을 통해 데이터 분석
+   제도 정비 및 기술 R&D 강화                                      데이터 중심 스마트시티 서비스 개발 확대                                                   기술을 기반으로 다양한 도시문제 해결
+
+
+
+       © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+       International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                    32
+         (P) 정책적 필요성 > 한국형 뉴딜 정책과 AIㆍ데이터 중심 스마트시티의 정합성
+A AIㆍ데이터 중심 스마트시티는 차세대기술을 통해 도메인 內 다양한 서비스를
+         활성화 시키고 있으며, 이는 한국형 뉴딜 정책의 5G, IoT, AI 기술 기반 경제활
+    제고
+  력 뉴딜
+한국형     방향성과 부합함
+       정책                                                                                                 AIㆍ데이터 중심 스마트시티 – 주요 서비스 도메인
+
+         정책 개요                                         추진 내용
+                                                                                                                                                                      Energy
+                                        ▪   D.N.A 생태계 강화                                                     5G                IoT
+  ▪ [개요] 정부 차원                               - 데이터 구축·개방·활용 추진
+    의 디지털 뉴딜                                                                                                                      Building & Infra
+                                             - 5G 전국망 구축 및 5G, AI 융합 확
+    및 그린 뉴딜 중                  디지              산                                                                                                                               Healthcare
+    심의 ‘한국형 뉴                   털                                                                             AI
+                                        ▪   디지털 포용 및 안전망 구축
+    딜 정책‘ 추진                   뉴딜
+                                        ▪    비대면 산업 육성
+                                                                                                           Environment
+  ▪ [배경] 경제 위기                          ▪    SOC 디지털화                                                                                                               People
+    극복 및 포스트                                 - 핵심 인프라 디지털 관리체계 구축                                                                                    Mobility
+    코로나 시대의
+                                        ▪   도시·공간·생활 인프라 녹색 전환
+    경제 체질 개선                   그린
+    시급                                  ▪   녹색산업 혁신 생태계 구축
+                               뉴딜
+                                        ▪   저탄소·분산형 에너지 확산
+
+
+5G . IoT . AI 관련 추진 과제영역                                                                                                Government
+         교통1)    수자원            재난대응               물류              의료2)           인프라3)                                                                           Living
+    디지털 트
+                  교육            거버먼트               환경4)           에너지5)
+      윈                                                                                                       차세대 기술을 통한 도시 삶의 질/지속가능성/효율성 제고
+
+                                코로나 發 경제 침체 대응 정책인 한국 뉴딜정책에서 추진하는 과제들은
+                       글로벌 Trend인 AIㆍ데이터 중심 스마트시티가 지향하고 있는 다양한 서비스 영역 및 기술과 유사
+
+
+Note :          1) 자율주행, C-ITS 등 2) 진료, 건강관리 3) 하천, 댐, 저수지 관리 등 4) 하수도, 상수도 모니터링 5) 스마트 그리드 등
+                © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+                International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                 33
+      (E) 경제적 필요성 > 글로벌 스마트시티 시장 규모 및 성장성
+B 스마트시티 시장은 연평균 10% 이상의 성장률로 2025년 기준 약 2.5달러 규
+      모의 시장 형성이 전망되며, 분야별 시장규모 역시 지속적으로 성장하고 있음
+
+                 스마트시티 시장규모 성장 전망                                                                                         분야별 스마트시티 건설 시장규모
+
+
+                                                                                                                                                    스마트 에너지
+                                                                                (조 달러)                                                              CAGR 19.6%
+                        2.6                                                                                               스마트 보안                                           스마트 인프라
+                                                                       2.5                                                CAGR 14.0%                                        CAGR 8.9%
+
+
+          CAGR                                        CAGR
+          18.4%                                       10.7%                                                        스마트 정부〮교육
+                                                                                                                    CAGR 12.4%
+                                                                                                                                                                                스마트 교통
+                                                       1.5                                                                                                                      CAGR 14.8%
+                                                                                                             스마트 빌딩
+
+           1.1
+                                                                                                             CAGR 12.4%                               16.7%
+                                                                                                                                         14.1%
+                                                                                                                                                                 13.8%            스마트 헬스케어
+                                                                                                                                                                                   CAGR 8.8%
+
+
+                                                                                                                             20.9%                                       9.1%
+
+                                                                                                                                                   2020년
+                                                                                                                                            (1조 5,000억 달러 규모)             15.3%
+          2020          2025                         2020          2025                                                 10.2%
+          Markets & Markets                         Frost & Sullivan
+
+
+ 스마트시티 시장의 고속성장 전망                                                                                     스마트시티 분야별 시장규모의 지속 성장
+ ▪ Markets & Markets에 따르면, 스마트시티 시장규모는 ’20년부터                                                          ▪ 스마트시티 각 분야별 시장은 연평균 성장률 8% ~ 19%의 높은
+   ’25년까지 연평균 성장률 약 18.4%로 폭발적인 성장이 전망됨                                                                  성장을 달성함
+ ▪ Frost & Sullivan 역시 ‘20년부터 ‘25년까지 스마트시티 시장이 연평                                                      ▪ 스마트시티는 스마트 정부·교육/에너지/헬스케어/보안/인프라/ 빌
+   균 약 10.7%의 높은 성장률을 기록할 것으로 전망함                                                                        딩/교통 도메인별 고른 성장 기록 중
+
+Source:      MarketsandMarkets, Frost & Sullivan, Press Search
+             © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+             International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                           34
+         (E) 경제적 필요성 – 국내외 AI 시장 규모 및 성장성
+B 스마트시티의 핵심기술로 떠오르고 있는 AI 기술은 글로벌 36%, 국내 18%의
+         높은 연평균 성장률이 전망되며, 이는 AI 기술 확보의 경제적 타당성을 의미함
+스마트시티   시장의
+ AI 산업 분류별  성장성
+           글로벌 시장 성장 전망 (2018-23년)                                                                                    AI 산업 분류별 국내 시장 성장 전망 (2018-23년)
+(단위: 십억 달러)                                                                    CAGR (18-23                      (단위: 십억 원)                                                          CAGR (18-23
+                                                                               년)                                                                                                   년)
+                                                                     99.6       Total  36%                                                                                          Total  18%
+                                                                                                                                                                           640
+                                                                     4.9       Service 37%
+                                                                                                                                                                   511.3
+                                                        72.8                                                                                                               254.5    Service   33%
+                                                               3.5             Softwa
+                                                                     62.0                      36%                                                     411.3
+                                           53.2                                  re                                                                                197.7
+                                                  2.5                                                                                     338.6
+                                                                                                                              304.5                    152.2                        Softwa
+                                                        45.2                                                      279.5
+                              38.9                                                                                                                                         187.8              37%
+                                     1.8                                                                                       86.3
+                                                                                                                                          113.6                                       re
+                28.9                       33.0                                                                    61.4                                            143.2
+  21.5                  1.3                                                                                        38.6        52.3                    102.3
+                              24.1                                                                                                          75
+          1.0
+                17.9                                                 32.7    Hardware 36%
+   13.4                                                 24.0                                                      179.5       165.9                    156.8       170.4   197.7   Hardware   2%
+                              13.0         17.7                                                                                             150
+   7.1          9.6
+
+   '18          '19           '20          '21          '22          23                                             '18         '19         '20         '21         '22     '23
+
+ 전 분야별 AI 시장의 지속적인 성장 전망                                                                                         소프트웨어 및 서비스 시장의 주도로 시장 지속 확대
+ ▪ AI 분야별 시장은 2018년부터 2023년까지 연평균 성장률                                                                            ▪ 소프트웨어 및 서비스 시장은 ‘18년 기준 전체 AI 시장 내 낮은 비
+   36%~37%로 폭발적인 성장이 전망됨                                                                                           중을 차지하나, ’18년-’23년까지 각각 연평균 성장률 37%, 33%로
+ ▪ 규모면에서 소프트웨어 시장이 높은 확장을 통해, 글로벌 시장 성장                                                                            고성장 전망
+   을 주도할 것으로 전망됨                                                                                                 ▪ 반면, ’18년 기준 전체 AI 시장 내 가장 높은 비중을 차지했던 하드
+                                                                                                                   웨어 시장은 ‘18년-’23년까지 연평균 성장률 2%로 저조한 성장 예
+                                                                                                                   상
+Source:               IDC, BCC Research
+                       © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+                       International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                  35
+    (S) 사회적 필요성 – 스마트시티 도메인별 도시문제 현황
+C 국내 현단계 40대 주요 사회문제를 8대 도메인별 속성에 따라 분류하여 도출
+    된 스마트시티 8대 도메인별 주요 도시문제는 하기와 같음
+국내 현단계 40대 사회문제1)                                                              스마트시티 8대 도메인별 주요 도시문제 도출
+10대 분야                40대 주요 사회문제                                                 도메인(8개)                    도메인 속성                                     주요 도시문제(40개)
+                              희귀난치성                                                   에너지                         에너지               전력수급                            에너지 빈곤
+            만성질환                                     중독
+                                질환
+  건강                                                                             빌딩& 인프라                    주거/주택/빌딩                불량/노후 주택
+           퇴행성 뇌/신경질환                   정신질환·지적장애
+                             실내 공기오                                                 모빌리티                           교통               교통 혼잡                           교통 안전
+           생활폐기물                                  수질오염
+                                염                                                                                                                                           감염병(ex.
+  환경                                                                                                                                기상재해                     화학사고
+           환경 호르몬             산업폐기물               미세먼지                                                          재해/재난                                                       COVID-19)
+                                                                                                                                    방사능 오염                   지진             소방안전
+ 문화여가            문화소외                  문화·여가공간 미비                                   거버먼트
+                                                                                                                                    성범죄                      사이버 범죄         화이트칼라 범죄
+                                                                                                             공공/생활안전
+             성범죄             먹거리 안전             사이버 범죄                                                                              가상화폐 부작용
+ 생활안전      가정 안       화이트칼라            사생활           가상증표
+           전사고         범죄               침해           부작용                                                        환경 오염               실내 공기오염                  미세먼지           수질 오염
+                                                                                        환경
+            기상재해               화학사고                감염병                                                    환경 호르몬/폐기물                환경 호르몬                   산업 폐기물         생활 폐기물
+ 재난재해                                                                                                                               만성질환                     휘귀난치성 질환       중독
+           방사능 오염                 지진              소방안전                                                     의료/건강/고령자
+                                                                                    헬스케어                      케어                    퇴행성 뇌/신경
+                                                                                                                                                             정신질환/지적장애      의료격차
+ 에너지             전력수급                       에너지 빈곤                                                                                  질환
+
+           불량/노후 주                                                                                                                  가정 안전사고                  가정폭력           저출산
+ 주거교통         택
+                              교통 혼잡               교통안전
+                                                                                                          가정/가족/홈/문화                취약계층 생활불                                문화/여가공간
+           노인 소외·자                                                                      리빙                여가/거주민 삶의질                편
+                                                                                                                                                             문화소외
+                                                                                                                                                                            미비
+  가족          살
+                               가정폭력                저출산
+                                                                                                                                    먹거리 안전
+  교육             교육격차                        학교폭력
+                                                                     교육격차      학교폭력         사생활 침해
+                                                         개인 생활/교육 평
+                        취약계층    노동의              피플         등(격차)
+ 사회통합      의료격차 정보격차
+                        생활불편     차별
+                                                                     정보격차      노동의 차별       노인 소외/자살
+Note:      1) 한국과학기술기획평가원에서 2019년 발표한 ‘제2차 과학기술 기반 국민생활·사회문제 해결 종합계획 수립 및 문제해결형 R&D사업 활성화 지원 연구’에 따르면,
+기존 1차 종합   계획의 국내 생활환경 변화(30개 문제)들을 바탕으로 시민·관계부처·지자체가 제기한 심각성·시급성을 기준으로 분석한 결과, 국내 주요 도시문제는 총 40개 문제로
+종합됨
+           © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+           International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                      36
+        (T) 기술적 필요성 – 선도국 대비 기술 경쟁력 현황
+D 국내 AI 경쟁력은 특허 등록 수준, 논문 등록 수준, 기업 및 교육 인프라 수준
+        측면에서 열위로, 선도국과의 격차 감소를 위한 기술 경쟁력 강화가 필요함
+                                                                                                                                                                          1위 국가        한국
+
+
+             특허 등록 수준                                                                논문 등록 수준                                                       기업 및 교육 인프라 수준
+
+        “1위 국가 대비 36.8% 수준“                                                  “1위 국가 대비 8.4% 수준”                                                     “1위 국가 대비 9.6%1) 수준”
+분야별 특허 등록 수 비교 (1위 vs. 한국)                                      분야별 논문 등록 수 비교 (1위 vs. 한국)                                               AI 관련 기업 수 비교 (1위 vs. 한
+(단위: 건, %)                                                      (단위: 건)                                                                  국)
+                                                                                                                                         (단위: 개) 2028
+                                                                                                                                                                        1393
+  211                                                                                        241                                                                26          465
+
+             166                                                                                                                                       AI 기업 수          스타트업 수
+                                                                       180
+
+                                                                                                                                         교육 인프라 수준 비교 (1위 vs. 한
+                                                                                                                     82
+                                                                                                                                         국)
+        63                                                                                                                               (단위: 개, 명)55
+                             47              47.3
+                                                                              23                    14                                                                   27
+                   13                               17.4                                                                    0                                   0             1
+                                     5
+                                                                     음성인식논문               컴퓨터비전논문                자연어처리논문                         대학교/대학원 수(개)        Kaggle 상위 랭커(명)
+음성인식특허 컴퓨터비전특허자연어처리특허 특허점유율(%)
+
+ ▪ 음성 인식 특허 등록의 경우, 1위 국가 대                                        ▪ 1위 국가 대비 음성 인식 논문 등록 수준                                               ▪ 1위 국가 대비 AI 기업 수는 1.3%로 매우
+   비 약 30% 수준으로 준수한 편이나, 컴퓨                                          은 12.8%, 컴퓨터 비전은 5.8%이며, 자연                                             저조한 수준이며, 국내 Kaggle 상위 랭커
+   터 비전은 7.8%, 자연어 처리는 10.6% 수                                       어 처리 논문 등록은 0건으로 미흡한 수준                                                 는 1명, 대학교/
+   준으로 경쟁 열위                                                                                                                                 대학원 수는 0개로 교육 인프라 역시 경쟁
+                   글로벌 경쟁력 中                                                             글로벌 경쟁력 下                                           열위      글로벌 경쟁력                  下
+Note:        1) 스마트시티 관련 대·중소·벤처기업 및 공기업·연구기관 등 민간 중심의 얼라이언스 조직, 2) 다양한 융복합 제품·서비스가 도시에 접목될 수 있도록 통합 발주가 가
+능한 방식
+              © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+              International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                  37
+사업의 시급성 (1/2)
+
+現 국내 스마트시티 발전 단계는 3~4단계에 머물러 있고 도메인별 요소기술의
+TRL 수준은 글로벌 대비 1~2단계 낮은 수준이므로 관련 기술 개발이 시급한 상황
+임
+   1        AI·데이터 중심 스마트시티의 발전 미진                                                                            2                  글로벌 대비 도메인별 기술수준 低
+
+준비                                                                   데이터 활용 기반 AI 응                                                                       글로벌 TRL 수준
+수준
+                       빅데이터 인프라 구축
+                                                                        용 본격화
+                                                                                                                    스마트시티 도메인                                 1)              국내 TRL 수준1)
+                                                                                                                         빌딩 & 인프라                                   7.7            6.2
+                                                                                                                            모빌리티                                    6.7            5.3
+         1단계             2단계             3단계            4단계             5단계            6단계
+                                                                                                                             에너지                                    7.3            4.8
+         AD HOC      OPPORTUNISTIC     REPEATABLE      MANAGED        OPTIMIZED    AUTONOMOUS
+                                                                                                                              환경                                    7.0            5.4
+발전       임시적           목적지향적             반복적             체계화            최적화            자율화
+단계                                                                                                                          거버먼트                                    7.4            4.9
+                                                                                                                            헬스케어                                    7.0            5.3
+                                                                                                                              피플                                    7.0            4.8
+                                                                                                                              리빙                                    7.2            5.5
+                                                                   민관협력 下                                                 디지털 트윈                                    7.0            4.7
+        사일로별 전                       반복적이고           범정부 서비 지속가능하며
+운영                    목적지향 협                                       자율적 스마
+        략적 소규모                       수평적인 서          스의 집중화 장기적인 범                                                    AI·데이터사이언스                                    7.0            6.0
+방식        운영
+                       력적 운영
+                                     비스 운영            된 운영  정부 서비스
+                                                                   트시티 생태
+                                                                    계 조성                                                      평균                                    7.1            5.3
+                                          스마트시티 챌            국가시범
+국내                                        린지                 도시
+ 現                                                                                                                                                                         글로벌 대비 국내 평균
+발전                                                                                                                                                                        TRL 수준은 74.6%로 미
+                                                    혁신성장동력
+수준                                                  R&D                                                                                                                         성숙
+
+ ▪ 現 국내 스마트시티 추진 수준은 발전 단계 중 3~4단계에 머                                                                        ▪ 스마트시티 도메인별 국내 기술성숙도(TRL)는 글로벌 대비
+   물러 있으며, 진정한 AIㆍ데이터 중심 스마트시티 구현을 위                                                                           1~2단계 낮은 수준이며, 전반 도메인의 평균 TRL 수준은 글
+   해 기술 개발을 기반으로 5~6단계까지의 발전 필요                                                                                로벌 대비 74.6%로서 스마트시티 관련 기술 개발 촉진 필요
+
+
+Note:          1) 도메인별 요소기술의 국내외 TRL 수준에 대한 전문가 의견을 수렴하여 도출된 TRL 단계의 평균값
+                  © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+                  International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                38
+사업의 시급성 (2/2)
+
+저출산·고령화에 따른 생산연령인구 감소로 노동공급 축소가 전망되며, 국내 AI
+기술수준 및 고급인력 확보 수준이 최저 수준이므로 장기적 성장동력 및 경쟁력
+확보가 시급함
+    3            인구구조 변화로 인한 노동공급 축소                                                                            4                                 국내 AI 역량 부족
+
+                    생산연령인구/고령인구 전망(2017-29년)                                                                   (단위: %)
+                                                                                                                                    글로벌 주요국 AI 기술수준(2013-17년)
+                                                                                                                        100                100                100           100          100
+ (단위: 만명)
+                                                                                                                                                              86.8          86.3          88.1
+                                                                                                                        85.7               85.8
+  4,000       3,757       3,759       3,713       3,662       3,585                                                                                                                        83.0
+                                                                          3,508       3,434                            83.7                83.3                                            81.9
+                                                                                                                                                              81.9          81.9
+                                                                                                                       73.1                74.0                             73.9
+                                                                                                                                                              70.5                        78.1
+
+  3,000                                                                                                                                    67.2               66.1          71.8
+                                                                                                                         66.5
+
+                                                                                                                       2013               2014               2015           2016         2017
+
+  2,000
+                                                                                                                               글로벌 주요국 AI 고급인력1) 확보 수준(2019년)
+                                                                                      1,252                    (단위: 명)
+                                                              1,051       1,159                                     10,295
+                                       854         945
+  1,000       707          769
+
+
+                                                                                                                                     2,525
+          0                                                                                                                                          1,475            935          659     405
+              2017        2019        2021        2023        2025        2027        2029
+
+                      생산가능인구(15~64세)                        고령인구(65세 이상)                                             미국              중국              영국               독일      프랑스         한국
+
+
+ ▪ 저출산·고령화로 인구둔화가 본격화되면서 주요 생산 주체인                                                                             ▪ ’17년을 기점으로 최고 선진국 미국 대비 국내 AI 기술수준
+   생산연령인구(15-64세)의 노동공급이 장기적으로 축소될 전                                                                             은 78.1%로 최하위를 기록했으며, 글로벌 주요국 대비 AI 고
+   망이므로 불필요한 노동 감소 및 장기적 성장동력 확보 필요                                                                              급인력 확보 수준도 최저 수준이므로 경쟁력 확보가 시급한
+                                                                                                                 상황
+Note:            1) 고급인력은 원천기술을 개발하는 석·박사 이상급 연구자
+Source:          현대경제연구원, IITP, 엘리먼트 AI, Press Search
+                    © 2019 Samjong Accounting Corp., the Korean member firm of the network of independent member firms affiliated with International Cooperative (“
+                    International”), a Swiss entity. All rights reserved. Printed in Korea.                                                                                                       39
+

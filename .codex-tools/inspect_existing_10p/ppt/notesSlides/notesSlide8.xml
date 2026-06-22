@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr>
+      <p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr><p:cNvPr id="2" name="Notes Placeholder"/><p:cNvSpPr txBox="1"/><p:nvPr><p:ph type="body" idx="1"/></p:nvPr></p:nvSpPr>
+        <p:spPr><a:xfrm><a:off x="685800" y="548640"/><a:ext cx="5486400" cy="7315200"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+        <p:txBody><a:bodyPr wrap="square"/><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1500"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1500" b="1"><a:solidFill><a:srgbClr val="123C69"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>추가 8. AI 기반 스마트 안전관리</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="1200"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1200"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>기존 안전관리는 위험요소를 감지하거나 사고 발생 후 대응하는 데 머무는 경우가 많습니다. 앞으로는 AI 영상분석, IoT 센서, 웨어러블, AR 위험 시각화, 디지털트윈 기반 안전관제를 결합해야 합니다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:notes>

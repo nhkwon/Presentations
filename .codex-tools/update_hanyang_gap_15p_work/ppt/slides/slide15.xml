@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr><p:sp>
+    <p:nvSpPr><p:cNvPr id="2" name="section-label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="164592"/><a:ext cx="3108960" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Smart City Construction Management</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="3" name="deck-label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="8275320" y="164592"/><a:ext cx="3337560" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>2026.1학기 서울과학기술대학교 발표자료</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="4" name="title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="502920" y="530352"/><a:ext cx="10012680" cy="512064"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="2200"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2200" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내 스마트시티 기술 Gap과 건설관리 과제</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="5" name="slide-number"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="11247120" y="566928"/><a:ext cx="292608" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="800"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="800"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>6</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="6" name="core-message"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1097280"/><a:ext cx="10972800" cy="566928"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="EDF5FB"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="B8D7EE"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1160"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1160" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내 스마트시티는 발전단계와 기술성숙도에서 글로벌 대비 gap이 존재하며, 건설관리는 이를 도시 인프라 데이터·KPI·운영 환류 체계로 줄여야 한다.</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="7" name="kpi-발전단계"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="1828800"/><a:ext cx="2633472" cy="960120"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="820"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="820" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>발전단계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="2050"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2050" b="1"><a:solidFill><a:srgbClr val="1D70B8"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>3~4단계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>반복·관리 수준, AI·데이터 최적화 전 단계</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="8" name="kpi-평균 TRL"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="3447288" y="1828800"/><a:ext cx="2633472" cy="960120"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="820"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="820" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>평균 TRL</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="2050"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2050" b="1"><a:solidFill><a:srgbClr val="C84747"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>7.1 vs 5.3</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>글로벌 평균 대비 국내 평균</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="9" name="kpi-성숙도"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6300216" y="1828800"/><a:ext cx="2633472" cy="960120"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="820"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="820" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>성숙도</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="2050"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2050" b="1"><a:solidFill><a:srgbClr val="D69A2D"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>74.6%</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내 TRL / 글로벌 TRL</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="10" name="kpi-AI 역량"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="9153144" y="1828800"/><a:ext cx="2414016" cy="960120"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="820"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="820" b="1"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>AI 역량</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="2050"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="2050" b="1"><a:solidFill><a:srgbClr val="1F8B87"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>78.1%</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p><a:p><a:pPr marL="0"><a:defRPr sz="760"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="760"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>미국 대비 국내 AI 기술수준(2017)</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="11" name="gap-row-3.35-0"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="749808" y="3063240"/><a:ext cx="2057400" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F2F6FA"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>도메인</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="12" name="gap-row-3.35-1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="2807208" y="3063240"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F2F6FA"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>글로벌</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="13" name="gap-row-3.35-2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4041648" y="3063240"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F2F6FA"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>국내</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="14" name="gap-row-3.35-3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="5276088" y="3063240"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F2F6FA"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Gap</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="15" name="gap-row-3.35-4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6510528" y="3063240"/><a:ext cx="4800600" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F2F6FA"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="720"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="720" b="1"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>건설관리 연결 과제</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="16" name="gap-row-3.83-0"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="749808" y="3502152"/><a:ext cx="2057400" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Building &amp; Infra</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="17" name="gap-row-3.83-1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="2807208" y="3502152"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>7.7</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="18" name="gap-row-3.83-2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4041648" y="3502152"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>6.2</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="19" name="gap-row-3.83-3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="5276088" y="3502152"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>-1.5</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="20" name="gap-row-3.83-4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6510528" y="3502152"/><a:ext cx="4800600" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="720"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="720"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>BEMS·센서·시설물 유지관리 데이터를 BIM/DT와 연결</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="21" name="gap-row-4.31-0"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="749808" y="3941064"/><a:ext cx="2057400" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Digital Twin</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="22" name="gap-row-4.31-1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="2807208" y="3941064"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>7.0</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="23" name="gap-row-4.31-2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4041648" y="3941064"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>4.7</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="24" name="gap-row-4.31-3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="5276088" y="3941064"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>-2.3</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="25" name="gap-row-4.31-4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6510528" y="3941064"/><a:ext cx="4800600" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="720"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="720"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>As-built BIM, GIS, IoT를 도시 자산관리 모델로 통합</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="26" name="gap-row-4.79-0"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="749808" y="4379976"/><a:ext cx="2057400" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Government</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="27" name="gap-row-4.79-1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="2807208" y="4379976"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>7.4</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="28" name="gap-row-4.79-2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4041648" y="4379976"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>4.9</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="29" name="gap-row-4.79-3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="5276088" y="4379976"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>-2.5</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="30" name="gap-row-4.79-4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6510528" y="4379976"/><a:ext cx="4800600" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="720"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="720"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>재난·안전·민원·공공서비스 KPI를 현장 데이터와 연동</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="31" name="gap-row-5.27-0"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="749808" y="4818888"/><a:ext cx="2057400" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Energy / People</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="32" name="gap-row-5.27-1"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="2807208" y="4818888"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>7.3 / 7.0</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="33" name="gap-row-5.27-2"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="4041648" y="4818888"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>4.8 / 4.8</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="34" name="gap-row-5.27-3"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="5276088" y="4818888"/><a:ext cx="1234440" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="780"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="780"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>-2.5 / -2.2</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="35" name="gap-row-5.27-4"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="6510528" y="4818888"/><a:ext cx="4800600" cy="384048"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="720"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="720"><a:solidFill><a:srgbClr val="172033"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>탄소·에너지·시민참여 리빙랩을 공사·운영 데이터와 연결</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="36" name="bottom-message"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="5596128"/><a:ext cx="10972800" cy="475488"/></a:xfrm><a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F7FAFD"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="D5DDE7"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="1060"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="1060" b="1"><a:solidFill><a:srgbClr val="122A4C"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Project Data → Facility Data → Urban Asset Data → Smart City KPI Feedback</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp>
+<p:sp>
+    <p:nvSpPr><p:cNvPr id="37" name="source"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+    <p:spPr><a:xfrm><a:off x="594360" y="6144768"/><a:ext cx="10972800" cy="256032"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:ln w="9525"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill></a:ln></p:spPr>
+    <p:txBody><a:bodyPr wrap="square" lIns="73152" tIns="45720" rIns="73152" bIns="45720"><a:normAutofit fontScale="88000" lnSpcReduction="8000"/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL="0"><a:defRPr sz="650"/></a:pPr><a:r><a:rPr lang="ko-KR" sz="650"><a:solidFill><a:srgbClr val="607289"/></a:solidFill><a:latin typeface="Malgun Gothic"/><a:ea typeface="Malgun Gothic"/></a:rPr><a:t>Source: 한양대학교 스마트시티 거버넌스 14주차 교안(2024.06.07), 국내·외 스마트시티 기술 Gap 분석</a:t></a:r><a:endParaRPr lang="ko-KR"/></a:p></p:txBody>
+  </p:sp></p:spTree></p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>
