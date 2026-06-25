@@ -1,0 +1,918 @@
+﻿PAGES	32
+
+===== PAGE 1 =====
+Public Presentation and Interview Evaluation
+for New Full - Time Faculty Recruitment
+스마트시티에서의 건설관리 역할 및 발전방향
+• 학부 ( 학과 ): 건축학부 건축공학전공
+• 지원분야 : 건설관리 ( 스마트시티 )
+Nahyun Kwon, Ph.D.
+Center for AI technology in Construction
+Hanyang University ERICA SBCML
+2025. 07. 02
+
+===== PAGE 2 =====
+Contents
+학력사항 및 소개
+01
+Educational Background
+BIM 기반 가상건설 및 건설관리
+02
+BIM - based Virtual Construction & Construction Management
+스마트시티 건설관리 역할 및 발전방향
+03
+oles and Future Directions of Construction Management in Smart Cities
+서울과학기술대학교 전임교원
+공개채용 교육능력심사
+2
+
+===== PAGE 3 =====
+Career Overview
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+“Qualification & Capability”
+2007
+for Smart Construction
+한양대학교
+B.S. in School of
+architecture
+1. Architectural design concept and philosophy
+2010
+2. Various knowledge related to architectural engineering
+서울대학교
+M.S. in architecture and
+3. Diverse interdisciplinary research
+architectural engineering
+Design Construction Interdisciplinary
+2014
+서울대학교
+Ph.D. in architecture and
+Focusing on Interdisciplinary
+Conducting a design studio Establishing foundation of
+architectural engineering
+Research
+using Revit Architecture architectural engineering
+2018
+▪ Green - maintenance - IT
+▪ Fundamental knowledge of BIM ▪ Safety, Environment, Cost,
+▪ Construction - safety - IT
+한양대학교
+▪ Practical applications Schedule management
+▪ Design - construction - IT
+인공지능 건설기술연구센터
+Research Professor
+2022
+Balanced and Integrated mind for construction
+현대건설 기술연구원
+스마트건설연구실
+Senior Researcher
+3
+
+===== PAGE 4 =====
+Undergraduate Course
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+“Qualification & Capability”
+2007
+for Smart Construction
+한양대학교
+B.S. in School of
+architecture
+1. Architectural design concept and philosophy
+2010
+2. Various knowledge related to architectural engineering
+서울대학교
+M.S. in architecture and
+3. Diverse interdisciplinary research
+architectural engineering
+Design Construction Interdisciplinary
+2014
+서울대학교
+Ph.D. in architecture and
+Focusing on Interdisciplinary
+Conducting a design studio Establishing foundation of
+architectural engineering
+Research
+using Revit Architecture architectural engineering
+2018
+▪ Green - maintenance - IT
+▪ Fundamental knowledge of BIM ▪ Safety, Environment, Cost,
+▪ Construction - safety - IT
+한양대학교
+▪ Practical applications Schedule management
+▪ Design - construction - IT
+인공지능 건설기술연구센터
+Research Professor
+2022
+Balanced and Integrated mind for construction
+현대건설 기술연구원
+스마트건설연구실
+Senior Researcher
+4
+
+===== PAGE 5 =====
+Undergraduate Course
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+2007
+한양대학교
+B.S. in School of
+architecture
+2010
+서울대학교
+M.S. in architecture and
+architectural engineering
+2014
+서울대학교
+Ph.D. in architecture and
+architectural engineering
+2018
+한양대학교
+인공지능 건설기술연구센터
+Research Professor
+2022
+현대건설 기술연구원
+스마트건설연구실
+Senior Researcher
+도면 추출 , 수량 산출하는 방법에 대한 이해
+5
+
+===== PAGE 6 =====
+Graduate Course – Master and Ph.D.
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+“Qualification & Capability”
+2007
+for Smart Construction
+한양대학교
+B.S. in School of
+architecture
+1. Architectural design concept and philosophy
+2010
+2. Various knowledge related to architectural engineering
+서울대학교
+M.S. in architecture and
+3. Diverse interdisciplinary research
+architectural engineering
+Design Construction Interdisciplinary
+2014
+서울대학교
+Ph.D. in architecture and
+Focusing on Interdisciplinary
+Conducting a design studio Establishing foundation of
+architectural engineering
+Research
+using Revit Architecture architectural engineering
+2018
+▪ Green - maintenance - IT
+▪ Fundamental knowledge of BIM ▪ Safety, Environment, Cost,
+▪ Construction - safety - IT
+한양대학교
+▪ Practical applications Schedule management
+▪ Design - construction - IT
+인공지능 건설기술연구센터
+Research Professor
+2022
+Balanced and Integrated mind for construction
+현대건설 기술연구원
+스마트건설연구실
+Senior Researcher
+6
+
+===== PAGE 7 =====
+After Graduation - Research Professor
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+“Qualification & Capability”
+2007
+for Smart Construction
+한양대학교
+B.S. in School of
+architecture
+1. Architectural design concept and philosophy
+2010
+2. Various knowledge related to architectural engineering
+서울대학교
+3. Diverse interdisciplinary research
+M.S. in architecture and
+architectural engineering
+Design Construction Interdisciplinary
+2014
+서울대학교
+Ph.D. in architecture and
+Focusing on Interdisciplinary
+Conducting a design studio Establishing foundation of
+architectural engineering
+Research
+using Revit Architecture architectural engineering
+2018
+▪ Green - maintenance - IT
+▪ Fundamental knowledge of BIM ▪ Safety, Environment, Cost,
+▪ Construction - safety - IT
+▪ Practical applications Schedule management
+한양대학교
+▪ Design - construction - IT
+인공지능 건설기술연구센터
+Research Professor
+2022
+Balanced and Integrated mind for construction
+현대건설 기술연구원
+스마트건설연구실
+Senior Researcher
+7
+
+===== PAGE 8 =====
+In Hyundai E&C Research Center
+01 . 학력사항 및 소개
+2026. 1 학기 서울과학기술대학교 발표자료
+1997
+경희대학교
+B.S. in Department of electronics
+and radio engineering
+“Qualification & Capability”
+2007
+for Smart Construction
+한양대학교
+B.S. in School of
+architecture
+1. Architectural design concept and philosophy
+2010
+2. Various knowledge related to architectural engineering
+서울대학교
+M.S. in architecture and
+3. Diverse interdisciplinary research
+architectural engineering
+Design Construction Interdisciplinary
+2014
+서울대학교
+Ph.D. in architecture and
+Focusing on Interdisciplinary
+Conducting a design studio Establishing foundation of
+architectural engineering
+Research
+using Revit Architecture architectural engineering
+2018
+▪ Green - maintenance - IT
+▪ Fundamental knowledge of BIM ▪ Safety, Environment, Cost,
+▪ Construction - safety - IT
+한양대학교
+▪ Practical applications Schedule management
+▪ Design - construction - IT
+인공지능 건설기술연구센터
+Research Professor
+2022
+Balanced and Integrated mind for construction
+현대건설 기술연구원
+스마트건설연구실
+Construction Automation Platform / Digital Site Management
+Senior Researcher
+Smart Construction
+8
+
+===== PAGE 9 =====
+Fourth Industrial Revolution
+02 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+4 차 산업혁명
+Industry 4.0 정의
+빅데이터 , 인공지능 , 초연결 등 디지털로 촉발되는 지능화 혁명
+모든 사물이 연결 되는 , 보다 지능화된 사회 로의 변화 ( 다보스 포럼 2016)
+교육방식의 변화 가 필요
+디지털 트윈 , 스마트시티 구현을 위한
+BIM 및 Construction IT 에 대한 기본지식이 필수적
+9
+
+===== PAGE 10 =====
+Characteristic of Construction Industry
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+건설산업의 특성
+건축 토목
+Commissioning
+Design
+PROJECT Feasibility Basic design Detail Design Procurement Construction Maintenance
+START Study
++ 타 산업 대비 긴 생산기간 및 생애주기 에 걸쳐 방대한 양의 정보 생성 > 정보관리의 어려움
++ 건설 정보의 오류 및 누락 발생
++ 협업 시스템 부재
++ 재 작업 (Rework) > 중복투자 및 낭비 발생 > 공기지연 및 공사비 증가
+부적절한 협업 시스템
+주택 플랜트
+기획 / 설계 단계 : 정보교환 및 의사결정을 위한 협업체계 필요성
+시공 단계 : BIM 기반 시공관리 및 협업 프로세스 중요성 증가
+10
+
+===== PAGE 11 =====
+Definition of BIM
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+BIM(Building Information Modeling) 정의
+What is Building Information Modeling?
+정의 : 시설물의 생애주기 동안 발생하는 다양한 정보를 효율적으로 유지 , 관리 , 공유 할 수
+있도록 3 차원적으로 표현한 디지털 정보 모델
+광의적 : 각 분야의 목적에 맞게 활용하는 Process 또는 System
+: 건설
+B uilding
+: 시설물 생애주기 내 모든 발생 정보
+I nformation
+M odeling
+: 정보의 표현 및 활용을 지원하는 도구
+Three Dimensional Model
+with Object Information + Working Process + Collaboration
+11
+
+===== PAGE 12 =====
+BIM Utilization by Project Phase
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+단계별 BIM 활용 분야
+프로젝트 단계
+Design BIM Construction BIM FM BIM
+준공 모델링
+3D 도면 간섭체크 Digital Mock - 3D 골조 시공도
+up
+3D
+유지관리
+Cyber Model House 3D 양중계획 자재관리 /RFID 공정관리
+4D
+수준
+1.11 1.50 1.57 2.02 2.02 2.10 2.16 2.16 3.32 3.40 3.67 4.22 4.22 3.96 3.85 3.97 4.83 4.83 6.15 7.40 7.40 6.30 6.20 5.16 2.82 2.82 0.84
+당월
+보 할
+1.11 2.61 4.18 6.20 8.22 10.3 12.5 14.6 18.0 21.4 25.0 29.3 33.5 37.4 41.3 45.3 50.1 54.9 61.1 68.5 75.9 82.2 88.4 93.5 96.3 99.2 100
+누계
+관리비용산출
+개산견적 구조물량 가설물량 견적
+모델
+BIM
+5D
+고객관리시스템
+일조 · 조망분석 LCC 분석 환경분석 방재 시뮬레이
+션
+nD
+2021 년 100 억원 이상 조달청 맞춤형 서비스 BIM 의무화
+성과창출을 위한 국내 대형 건설사의 BIM 활용
+12
+
+===== PAGE 13 =====
+BIM in Construction Management
+02 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+4D BIM 을 활용한 건설관리
+3D 모델에 시간정보 ( 일정 , 공정계획 ) 를 결합하여 시공과정 시뮬레이션 및 일정 관리를 수행
+건설공정 간 충돌 , 자원배분 , 일정 지연 등을 사전에 예측 하고 최적화
+환경시뮬레이션 : 일조 , 조도 및 에너지 분석 , 음영 시뮬레이션
+공정시뮬레이션 : Navisworks, Synchro - WBS 와 연계하여 일정검토 , 공정관리 , 간섭체크
+동별 일조 확보율 에너지 효율 분석 실별 조도 시간대별 일영 분석
+산학협력단 산학협력단 산학협력단 산학협력단
+4D BIM 을 활용하여 일조확보율 , 에너지효율 , 실별 조도 와 같은 정보를 파악한 후
+건물의 에너지 효율성 , 거주 쾌적성 , 법규 , 그리고 디자인 최적화 활용 가능
+13
+
+===== PAGE 14 =====
+BIM in Construction Management
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+4D BIM 을 활용한 건설관리
+3D 모델에 시간정보 ( 일정 , 공정계획 ) 를 결합하여 시공과정 시뮬레이션 및 일정 관리를 수행
+건설공정 간 충돌 , 자원배분 , 일정 지연 등을 사전에 예측 하고 최적화
+환경시뮬레이션 : 일조 , 조도 및 에너지 분석 , 음영 시뮬레이션
+공정시뮬레이션 : Navisworks, Synchro - WBS 와 연계하여 일정검토 , 공정관리 , 간섭체크
+BIM 모델을 통한 간섭 시각화 Navisworks 를 통한 간섭사항 검토 ACC 클라우드를 통한 모델이슈 공유 공정관리
+공사 공정표
+변경사항 빌셍
+변경 세부항목
+간섭 부위 확인
+일정사항 공유
+변경사항 반영
+Revit 화면 Navisworks 화면 ACC 화면 ACC 화면
+14
+
+===== PAGE 15 =====
+BIM in Construction Management
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+5D BIM 을 활용한 건설관리
+수량 산출 (Quantity Take - Off) 을 자동화 , 이를 기반으로 견적서와 예산 분석을 수행
+모델 ( 객체 ) 기반 수량 산출
+→ 설계변경 시 실시간 견적 반영 가능 , 시공비 모니터링
+시공 실행 물량의 근거자료로 활용
+→ 현장내역과의 비교검토를 통해 오차율 최소화 가능
+일람표
+일람표 상세 객체코드 입력
+구조
+자재정보
+건축
+재료정보
+수량
+3. 물량 산출
+자동산출
+자재크기
+물량 산출
+발주금액확인
+…
+현장내역비교
+2 . 객체 정보 확인 4. 현장 내역 비교
+1.BIM 기반 정보기입
+공사비 산정의 정밀도 향상 ( 단가정보 연동 ) ,
+수량 산출 자동화를 통해 설계 변경에 대한 비용 영향 분석
+15
+
+===== PAGE 16 =====
+BIM in Construction Management
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+6D BIM 을 활용한 건설관리
+시설 유지관리정보를 결합하여 , 건물의 운영 · 관리 단계까지 BIM 데이터를 확장 활용하는 개념
+건축물 관리정보의 디지털화
+→ 데이터베이스 : 사용된 자재와 설계 정보를 즉시 확인 가능 , 신속한 대응
+→ 주요 설비의 위치 , 규격 , 제조사 , 설치일 , 수명 , 점검이력을 QR 코드 , IoT 센서 연계
+: 점검 , 교체 , 수리 등의 일정 계획과 연동하여 예방적 관리체계를 수립 가능
+유지관리 정보 입력
+유지관리 Data 구축계획 QR 코드 기반 유지관리 정보 관리
+장기적 시설 운영관리를 위한 디지털 기반 을
+구축하는 전략적 도구 로서 의미
+16
+
+===== PAGE 17 =====
+BIM in Construction Management
+0 2 . BIM 기반 가상건설 및 건설관리
+2026. 1 학기 서울과학기술대학교 발표자료
+BIM 기반 안전관리
+BIM 을 활용해 시공 전에 위험 요소를 사전에 발굴하고 해결 방안을 수립
+Fuzor BIM 활용
+→ 실제 현장에서는 안전과 관련된 가설물 , 장비 , 동선 등의 데이터는 설계도서에 미반영
+→ BIM 데이터 : 프로젝트의 공정과 연계하여 가설 , 장비 , 운송 계획 수립
+→ 위험 요인을 시각화 할 수 있어 보다 안전한 작업 환경을 조성 가능함
+Civil3D Fuzor BIM
+동선검토
+ArchiCAD
+Fuzor BIM
+작업반경 검토
+17
+
+===== PAGE 18 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+스마트시티에서 건설관리의 역할
+스마트시티란 ?
+스마트시티 : 도시 인프라에서 생성되는 데이터를 AI, IoT, 디지털트윈 등과 연계하여 관리하는 도시운영 및 관리체계
+건설관리 : 인프라를 구축하고 , 유지관리하는 과정에서 데이터를 생성 , 관리하는 핵심
+→ 따라서 ， 스마트시티에서 건설관리는 단순 시공관리 가 아니라 도시 운영 을 위한 데이터 체계를 구축 하는 것과 연관
+Project - level CM Facility - level CM City - level CM
+프로젝트 단위 관리 시설물 단위 관리 도시 인프라 단위 관리
+• 공정 · 원가 · 품질 · 안전관리
+• AS - built BIM 과 유지관리 이력 • 도시 인프라 자산관리
+• 계약 및 협업관리
+• 성능 · 하자 · 점검 데이터 축적 • 시민 안전 · 생활환경 · 탄소 관리
+→ 시공 단계 중심의 의사결정
+→ 예측형 유지관리 기반 → 도시 리스크 및 회복 탄력성
+Project Data Facility Data Urban Asset Data City Operation Decision
+스마트시티에서의 건설관리는 프로젝트 단위의 시공관리를 넘어 ,
+도시 인프라의 데이터를 관리하는 방향 으로 확장될 필요
+18
+
+===== PAGE 19 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+데이터 기반 건설관리로의 전환 필요성
+국내 건설산업은 노동생산성 감소 ( - 4%) 과 낮은 디지털 전환 수준 ( 전산업 평균의 57%) 으로 개선이 필요
+→ 데이터 기반 건설관리로 전환해야 할 필요
+노동생산성
+• 시간당 노동생산성 51.1 달러 , 선진국 대비 약 61% 수준
+• 건설업 노동생산성 OECD 순위는 22 위 →25 위로 하락 추세
+• 고령화 · 숙련공 부족으로 현장 생산성 정체 심화
+경쟁력
+시간당 노동생산성 국제비교 (2023) 건설업 노동생산성 OECD 순위 추이
+자료 : 한국생산성본부 (KPC) 노동생산성 국제비교 자료 : KICT 박환표 (2023), OECD 35 개국 기준
+• BIM 기술성숙도 : 글로벌 선도 국가 대비 낮은 수준으로 Level 1 에 머뭄
+• 장비 · 센서 ·BIM· 플랫폼 간 데이터 연계 및 표준화 부족
+전환 필요성
+• 단순 시공관리 → 데이터 기반 생애주기 관리로 전환 필요
+• 시공 데이터를 유지관리 및 도시 운영 데이터로 연결
+건설기업 분야별 경쟁력 BIM 성숙도 단계와 국내 수준
+• BIM·Digital Twin·AI 기반 통합 플랫폼 구축 이 필수적
+자료 : KICT 종합평가 (2016) 자료 : 영국 BSI(B/555)· buildingSMART
+즉 , 스마트시티 에 있어 건설관리는 선택적 인 기술 도입 이 아니라 ,
+생산성 , 안전성 및 운영 효율을 높이기 위한 필수 적인 기반 이 되어야 함
+19
+
+===== PAGE 20 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+스마트시티 건설관리 기술체계
+스마트시티의 건설관리 기술은 데이터 취득 기술 , 시공자동화 기술 , 정보모델 (BIM/Digital Twin), 프리팹과 원격
+시공 기술 , AI 기반 현장관리 등 4 가지 핵심축 과 통합 플랫폼 으로 구성
+02
+01
+05
+03 04
+장비관제와 시공자동
+데이터 취득과 디지털
+AI 기반 안전관리
+프리팹과 인프라 BIM 로보틱스와 원격시공
+현장 데이터 취득
+화
+트윈
+• 드론 · LiDAR · MMS • MG/MC · Fleet • BIM 기반 프리패브 • 3D 스캐닝 모니터링 • AI 영상 분석
+• 센서 네트워크 • 원격 · 자율 장비 • DfMA 기반 표준화 • 원격시공 , 현장관제 • 웨어러블 · AR
+Feedback Feedback Feedback Feedback
+• GPR · IRT · HRI • 품질 자동평가 • AI 기반 시공성 검토 • 로봇 · 장비 원격제어 • 예측 유지관리
+Feedback Feedback Feedback
+Feedback
+Feedback
+통합관리 플랫폼 (BIM · Digital Twin · AI 기반 데이터 통합 )
+핵심은 개별 기술의 도입 이 아니라 , 각 기술에서 생성되는 데이터를 통합 · 연계하여
+하나의 운영 플랫폼으로 고도화 하는 데 있음
+20
+
+===== PAGE 21 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+데이터 취득과 디지털트윈
+현장 변화를 정밀하게 취득 및 분석 하고 , 이를 Digital Map, As - built BIM, City Digital Twin 으로 전환 필요
+→ 스마트시티 건설관리의 출발점 이자 , 도시 인프라 운영을 고도화하는 기반
+관련 기술
+• 드론 , LiDAR, MMS 기반 3D 공간정보 취득 기술
+• 고해상도 영상 기반 점검 기술
+• 정보모델 구축기술 (Digital Map As - built BIM, City Digital Twin)
+현재 한계
+UAV - LiDAR 기반 3D 공간정보 취득 기술
+• 단순 측량 , 물량 산출 수준 에 머무름
+- > 공정 / 품질 / 안전관리 등 시공단계의 관리업무 로 확장되지 못함
+• 2D 도면 , 사진 , 구두보고 중심의 정보전달로 데이터 연속성이 부족
+개선 방향
+• 계측 및 센싱 데이터를 활용 하여 시공현황과 위험요인을 자동으로
+분석 하는 체계 필요
+• Digital Map 과 As - built BIM 모델을 연계하여 City - Level Digital
+Twin 으로 확장할 필요
+IoT 센서 기반 점검 기술 As - built BIM 기반 인프라 디지털 트윈 구축 · 운영 기술
+즉 , 건설현장 데이터를 도시 단위의 디지털 트윈으로 통합 , 확장 하여
+도시 인프라 운영 을 체계화 하고 , 고도화를 위한 기반 으로 활용
+21
+
+===== PAGE 22 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+장비관제와 시공프로세스 최적화
+토공 , 양중 , 운반 등 건설현장에서 장비 의존도가 높은 공종은 데이터 기반 통합관제 및 자동화 체계로 전환
+→ 장비 위치 , 작업경로 , 시공품질을 실시간으로 최적화 함으로써 , 생산성 및 안전성을 향상
+관련 기술
+• MG/MC 기반 장비 자동화 기술
+• Fleet Management 모니터링 기술
+• 장비 운행경로 및 투입계획 최적화 기술
+현재 한계
+스마트 건설장비 Fleet Management 기술
+MG/MC 기반 장비 자동화 기술
+• 장비 투입과 작업 계획이 관리자 경험에 의존
+- > 현장조건 및 작업변화에 따른 최적 화에 한계
+• GPS 및 통신 음영지역에서 위치추적 한계
+개선 방향
+• 장비 위치 , 가동률 , 작업량 데이터를 통합 관제
+• 공정 데이터 - 장비 데이터를 연계하여 투입계획 최적화
+• GPS 음영지역 에서도 보완측위 기술로 연속성 을 확보
+자율 굴삭 및 토공 자동화 기술 원격 · 자율 장비 제어 기술
+즉 , 장비관제와 시공자동화는 개별적으로 건설장비를 운용하는 수준 을 넘어 ,
+장비 - 데이터 - 통신 - 관제를 실시간으로 연결하여 공정 최적화 , 시공품질을 향상
+22
+
+===== PAGE 23 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+프리팹과 인프라 BIM
+Prefabrication 과 인프라 BIM 은 2D 도면 기반한 설계 및 제작 오류 를 줄이고 , 설계 - 제작 - 시공을 디지털로 연결
+→ 생산성과 품질을 동시에 확보하기 위한 필수 요소
+관련 기술
+• BIM 기반 프리팹 부재 설계 및 간섭검토 기술
+• DfMA 기반 부재 표준화 및 제작 , 시공 연계 기술
+• 시공성 검토 및 가상건설 기술
+현재 한계
+Prefab 부재 표준설계 및 조립 기술 BIM 기반 간섭 검토 기술
+• 2D 도면에 기반한 설계 · 제작으로 간섭 및 제작오차 발생
+• 설계 - 제작 - 운반 - 설치 관련 정보가 주체별로 분절
+- > 단계 간 정보 연계와 변경 대응에 한계 존재
+개선 방향
+• BIM 기반 간섭검토와 가상시공 을 통한 오류 최소화
+• 클라우드 BIM/CDE 를 기반으로 설계 - 제작 - 시공 정보의 통합관리
+• Infra BIM 데이터 표준 확립 과 부재별 정보를 연계하는 체계가 필요
+Prefab 부재 연계 및 이력관리 기술
+3D 스캐닝 기반 품질검사 자동화 기술
+프리팹 · 인프라 BIM 의 핵심은 설계 - 제작 - 시공 - 유지관리 데이터를 통합적으로 연계 하고 ,
+이를 통해 스마트시티 운영을 위한 디지털 기반 을 구축하는 데 있음
+23
+
+===== PAGE 24 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+로보틱스와 원격시공
+관련 기
+고위험 / 고난도 공종에서는 작업자 안전 확보와 품질 향상 을 위해 로보틱스 기반 자동화 기술의 도입이 필요
+이미
+이를 통해 위험작업의 인력 투입을 줄이고 시공 정밀도와 안전성을 향상 시킬 수 있음
+관련 기술
+• 로봇 기반 천공 · 절단 · 용접 · 도장 기술
+• XR/ 디지털트윈 기반 원격 시공 지원
+• 자율주행 로봇 및 자동화 장비 기반 반복작업 수행 기술
+현재 한계
+3D 스캐닝 기반 시공현장 모니터링 기술
+• 위험작업과 반복작업에서 작업자 의존도 높음
+• 로봇 시공 데이터와 BIM· 공정 데이터의 연계 부족
+• 현장 환경 변화에 대한 로봇 작업 적응성 한계
+개선 방향
+• 고위험 · 정밀작업 중심 의 로봇 시공 적용 확대
+• 시공 데이터와 BIM· 공정데이터 간 연계체계 구축
+자율 굴삭 및 토공 자동화 기술
+운영 데이터 기반 작업계획 · 장비 통합관리 기술
+• 작업경로 보정 및 현장 적응형 시공체계 구축
+로보틱스와 원격시공은 위험작업을 최소화 하고 ,
+로봇 및 원격장비가 직접 시공을 수행 하여 정밀도와 안전성을 높이는 기술로서 고도화 필요
+24
+
+===== PAGE 25 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+AI 기반 안전관리
+스마트시티의 건설관리는 작업자 안전을 넘어 시민 안전 , 생활환경 , 임시구조물 안전까지 통합적으로 관리 하는
+역할로 확장 필요
+관련 기술
+• 센서 , 다중영상 기반 데이터 수집 기술
+• AI 영상분석 기반 위험요인 및 이상징후 실시간 탐지 기술
+• 시설물 상태 예측 및 안전관리 시각화 기술
+현재 한계
+AR 기반 시공 현장 위험정보 시각화 기술
+AI 영상분석 기반 PPE 착용 감지 기술
+• 사고 빌생 후 대응하는 사후관리에 초점
+• 소규모 현장은 안전관리 시스템과 전문인력 부족
+• 육안점검과 센서도입 부담으로 실시간 모니터링 한계
+개선 방향
+AI 를 통해 위험상황 을 조기에 예측 하고 , 예방 중심의 안전관리 체계 전환
+Wearable Device 와 3D camera 를 활용 한 건설현장 모니터링 체계 구축
+Digital Twin 기반 임시구조물 및 작업환경 통합 안전관제 기술
+스마트시티 안전관리는 작업자 중심의 사후 대응형 관리에서 벗어나 ,
+AI 와 센서 데이터를 활용한 예측 중심의 통합관리로 전환 될 필요
+25
+
+===== PAGE 26 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+건설관리기술의 발전방향 및 기대효과
+스마트시티 구축을 위한
+기존 기술의 한계 개선 전략 발전 방향 및 전략
+기술 기반 확보
+BIM/Digital Twin/AI 기반
+도시 인프라 · 건설현장 데이터
+분절된 기술 적용
+통합 플랫폼
+통합관리 체계 구축
+현장 데이터와 의사결정 단절 데이터 수집 - 분석 - 예측 - 대응
+AI 기반 공정 · 품질 · 안전 위험
+예측 및 대응 기술 개발
+사후 대응 중심의 개방형 표준 , API
+스마트시티 관
+공정 / 품질 / 안전관리 공통 데이터 모델
+로보틱스 · 원격시공 기반
+련이미지 추가
+GPS· 통신 음영지역으로
+시공관리 고도화 기술 개발
+현장 네트워크 / 위치추적 고도화
+인한 위치 추적 한계
+고가 장비 · 육안점검 · 전문가
+지속가능과 안전을 중심의
+자동화 기반 운영체계 구축
+의존
+스마트건설 플랫폼 전환
+Closed - loop Feedback
+Data Capture Information Model AI Decision Support Urban Operation
+수집
+분석
+구조화
+드론 · LiDAR · BIM · Digital Map · 자산관리 · 안전 · 탄소 ·
+예측 · 최적화 · 위험분석
+센서 · 장비데이터 As - built BIM 회복 탄력성
+현장 데이터 → 정보모델 → 의사결정 → 도시운영 , 그리고 다시 현장 데이터로 순환
+이를 위해 , 현장 데이터가 정보모델과 AI 의사결정을 거쳐 도시 운영으로 확장 하고 ,
+다시 현장관리로 환류되는 폐쇄루프형 관리체계 로 발전 필요
+26
+
+===== PAGE 27 =====
+Role of Construction Management in Smart City
+스마트시티 건설관리 역할 및 발전방향
+03 .
+2026. 1 학기 서울과학기술대학교 발표자료
+스마트시티 기술 현황으로 본 건설관리 과제
+국내 사업은 Mobility · Energy · Healthcare · People · Living 등에서 다수 기술이 미보유 ( 추진 無 )
+환경 · 빌딩인프라 · 거버넌스 등 일부 영역만 부분 보유하는 수준 , 글로벌 우수사례 대비 영역별 편차 / 데이터 단절
+Environ Building
+Environ Building
+Energy Mobility Government Healthcare People Living
+Energy Mobility Government Healthcare People Living
+-ment & Infra
+-ment & Infra
+글로벌
+글로벌
+에너지 과사용 , 자원 , 환경 재난 발생 多 , 치안 고령층 증가 , 의료 시민중심서비스및 시 민삶 의질
+에너지 과사용 , 자원 , 환경 재난 발생 多 , 치안 고령층 증가 , 의료 시민중심서비스및 시 민삶 의질
+교통량 증가 , 교통 정체 심화 인구 급증
+기술도입
+교통량 증가 , 교통 정체 심화 인구 급증
+기술도입
+CO2 과도 배출 문제존재 중요성 증대 접근성 저하 교육의필요성증대 제 고필 요
+CO2 과도 배출 문제존재 중요성 증대 접근성 저하 교육의필요성증대 제 고필 요
+현황
+Integrated Intelligent High
+현황
+Remote
+Integrated Intelligent High
+Remote
+Smart Renewable Intelligent Real-time Citizen Public
+Smart Renewable Intelligent Real-time Citizen Public
+Smart Multi- Environ- Performance Emergency Emergency
+Patient
+Smart Multi- Environ- Performance Emergency Emergency
+Patient
+Meter & Sources of Traffic Incident Engage- eLearning Infor-
+Meter & Sources of Traffic Incident Engage- eLearning Infor-
+Diagnostic,
+modal mental Building
+Parking Dispatch Response
+Diagnostic,
+Parking modal mental Building Dispatch Response
+스마트시티
+Mgmt Energy Mgmt Response ment mation
+Monitoring
+Mgmt Energy Mgmt Response ment mation
+Transport Mgmt /Infra
+Monitoring
+Transport Mgmt /Infra
+챌린지 기술
+혁신성장동력
+현황
+기술 현황
+미보유 기술
+지 추진 기술 無
+건물 / 공장 / 공공시설물
+에너
+지
+에너
+통합에너지관리기술
+주차공유 + 수요분담
+기반 주차수요관리 기술
+스마트 모빌리티
+활성화 기술
+공공·민간 주차장
+정보 연계 , 공유 기술
+미보유
+스마트 모빌리티
+미보유
+기술
+퍼스널 모빌리티 -
+이동수단 연계 기술
+대중교통 - 주차연계기술
+기술 모빌리티
+모빌리티
+주차공간 공유 기술
+실시간 수요기반
+자율경로 대중교통 기술
+클라우드소싱 기반 대기
+차량 내 부가서비스
+환경
+환경 측정 / 예측 기술
+제공 기술
+라
+스마트 쓰레기통 , 건물 / 공장 / 공공시설물
+딩
+프
+빌
+환경
+미세먼지 정보안내 기술
+통합에너지관리기술
+인
+라
+데이터 기반 도로
+딩
+경사지 / 수재해 예측
+프
+빌
+유지관리 기술
+인
+경보 / 긴급구난 기술
+스마트홈 통합
+IoT 수위센서 기반
+플랫폼 구축 기술
+수문 자동운용시스템
+전기화재 모니터링
+기술
+5D 기반의 도시
+거버먼트
+시설물 관리 기술
+무인 드론안전망
+거버먼트
+기술
+소셜 클라우드 소싱
+영상분석 기반 CCTV
+및 포털 기술
+선별관제 효율화 기술
+독거노인 케어 , 장애인
+헬스 케어
+이동성 보장 시스템
+미보유 기술
+추진 기술 無
+헬스 케어
+미보유
+리빙랩형 혁신모델
+미보유 기술
+추진 기술 無
+피플
+구축 및 운영
+기술
+피플
+미보유
+미보유
+추진 기술 無
+추진 기술 無
+기술
+리빙
+리빙
+기술
+스마트시티 챌린지 기술 현황 혁신성장동력 기술 현황
+국내 스마트시티 기술은 영역별 보유 수준의 편차가 크고 ,
+건설 데이터가 도시 운영으로 이어지는 연결 구조 는 제한적임
+출처 : 삼정 KPMG 경제연구원 (2019); 국토교통부 · 스마트시티 종합포털 국가시범도시 · 혁신성장동력 R&D· 스마트시티 챌린지 자료 재구성
+27
+
+===== PAGE 28 =====
+THANK YOU
+28
+
+===== PAGE 29 =====
+Appendix #1
+2026. 1 학기 서울과학기술대학교 발표자료
+“ 한양대학교 조기취업형 계약학과 선도대학원 육성사업 ” 참여 , 최종 선정 ( 2024 . 5 / 예산 : 25 억 / 년 )
+PM : 제안서 및 발표자료의 기획 및 작성 총괄
+→ 대학 및 학과 차원의 사업을 추진하는 데 참여 , 기여할 것
+29
+
+===== PAGE 30 =====
+Appendix #2
+2026. 1 학기 서울과학기술대학교 발표자료
+BIM
+Practices
+Completed by Students
+during the Semester
+30
+
+===== PAGE 31 =====
+Appendix #2
+2026. 1 학기 서울과학기술대학교 발표자료
+BIM
+Practices
+Completed by Students
+during the Semester
+31
+
+===== PAGE 32 =====
+Appendix #2
+2026. 1 학기 서울과학기술대학교 발표자료
+BIM
+Practices
+Completed by Students
+during the Semester
+32
